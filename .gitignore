@@ -1,0 +1,31 @@
+# Ambientes e caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Segredos e configuracoes locais
+.env
+*.key
+*.pem
+
+# Saidas geradas ao executar (os exemplos versionados ficam em exemplo_saida/)
+saida/
+resultado/
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Camadas geradas ao executar o pipeline PySpark (os exemplos versionados ficam em exemplo_saida/)
+data/bronze/
+data/silver/
+data/gold/
+control/

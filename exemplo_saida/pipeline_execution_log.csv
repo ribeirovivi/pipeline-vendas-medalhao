@@ -1,0 +1,6 @@
+timestamp,camada,fonte,linhas_lidas,linhas_gravadas,linhas_rejeitadas,linhas_duplicadas,duracao_segundos,status
+2026-10-11T05:15:38.441557+00:00,bronze,loja_online,264,264,0,0,24.46,sucesso
+2026-10-11T05:15:42.337380+00:00,bronze,loja_fisica,194,194,0,0,3.888,sucesso
+2026-10-11T05:15:46.207473+00:00,bronze,marketplace,132,132,0,0,3.865,sucesso
+2026-10-11T05:16:06.215697+00:00,silver,vendas_unificadas,729,719,8,2,20.005,sucesso
+2026-10-11T05:16:14.640370+00:00,gold,vendas_mensal_categoria+top_produtos,45,45,0,0,5.641,sucesso

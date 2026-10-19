@@ -1,0 +1,9 @@
+﻿id_transacao,data,sku,categoria,nome_produto,quantidade,preco_unitario,fonte,contexto,_ingerido_em,motivo_rejeicao
+ON-000121,2026-01-01,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,,loja_online,app,2026-10-11T05:15:30.355492+00:00,preco_unitario_nulo
+ON-001140,2026-02-10,SKU-0013,Fitness,Corda de Pular Profissional,1,,loja_online,app,2026-10-11T05:15:37.212374+00:00,preco_unitario_nulo
+FIS-000092,2026-01-27,,,,2,76.87,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,produto_nao_encontrado_na_referencia
+FIS-001101,2026-02-25,,,,3,58.34,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,produto_nao_encontrado_na_referencia
+MKT-000061,2026-01-10,SKU-9999,,,1,99.9,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,produto_nao_encontrado_na_referencia
+MKT-001070,2026-02-10,SKU-9999,,,1,99.9,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,produto_nao_encontrado_na_referencia
+FIS-000091,2026-01-29,SKU-0012,Fitness,Colchonete de Yoga,-1,119.35,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,quantidade_invalida
+FIS-001100,2026-02-20,SKU-0012,Fitness,Colchonete de Yoga,-1,121.15,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,quantidade_invalida

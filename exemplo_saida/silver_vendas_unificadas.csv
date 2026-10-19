@@ -1,0 +1,720 @@
+﻿id_transacao,data,sku,categoria,nome_produto,quantidade,preco_unitario,fonte,contexto,_ingerido_em,valor_total
+FIS-000001,2026-01-21,SKU-0009,Acessórios,Squeeze Térmico 1L,3,88.5,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,265.5
+FIS-000002,2026-01-29,SKU-0012,Fitness,Colchonete de Yoga,3,119.35,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,358.05
+FIS-000003,2026-01-27,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,76.87,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,153.74
+FIS-000004,2026-01-15,SKU-0002,Calçados,Tênis Trail Grip,2,409.61,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,819.22
+FIS-000005,2026-01-23,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,81.81,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,245.43
+FIS-000006,2026-01-05,SKU-0010,Acessórios,Mochila Esportiva 25L,3,230.38,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,691.14
+FIS-000007,2026-01-14,SKU-0014,Vestuário,Meião de Compressão,2,38.68,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,77.36
+FIS-000008,2026-01-06,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.32,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,156.64
+FIS-000009,2026-01-24,SKU-0001,Calçados,Tênis Runner Pro X,3,366.5,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1099.5
+FIS-000010,2026-01-17,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,81.0,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,324.0
+FIS-000011,2026-01-21,SKU-0014,Vestuário,Meião de Compressão,3,37.95,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,113.85
+FIS-000012,2026-01-09,SKU-0008,Acessórios,Luva de Goleiro Grip,2,188.77,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,377.54
+FIS-000013,2026-01-20,SKU-0005,Vestuário,Shorts de Corrida,4,104.31,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,417.24
+FIS-000014,2026-01-26,SKU-0014,Vestuário,Meião de Compressão,4,38.17,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,152.68
+FIS-000015,2026-01-30,SKU-0010,Acessórios,Mochila Esportiva 25L,1,222.75,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,222.75
+FIS-000016,2026-01-18,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,82.39,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,247.17
+FIS-000017,2026-01-25,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,4,76.85,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,307.4
+FIS-000018,2026-01-16,SKU-0010,Acessórios,Mochila Esportiva 25L,2,226.29,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,452.58
+FIS-000019,2026-01-15,SKU-0007,Bolas,Bola de Vôlei Oficial,4,149.16,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,596.64
+FIS-000020,2026-01-14,SKU-0014,Vestuário,Meião de Compressão,4,40.25,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,161.0
+FIS-000021,2026-01-27,SKU-0010,Acessórios,Mochila Esportiva 25L,1,222.56,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,222.56
+FIS-000022,2026-01-24,SKU-0011,Fitness,Faixa de Resistência Kit,1,67.88,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,67.88
+FIS-000023,2026-01-19,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,77.29,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,77.29
+FIS-000024,2026-01-09,SKU-0001,Calçados,Tênis Runner Pro X,4,346.7,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,1386.8
+FIS-000025,2026-01-11,SKU-0001,Calçados,Tênis Runner Pro X,3,340.5,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1021.5
+FIS-000026,2026-01-28,SKU-0014,Vestuário,Meião de Compressão,2,39.72,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,79.44
+FIS-000027,2026-01-08,SKU-0013,Fitness,Corda de Pular Profissional,2,51.35,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,102.7
+FIS-000028,2026-01-27,SKU-0002,Calçados,Tênis Trail Grip,2,401.68,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,803.36
+FIS-000029,2026-01-30,SKU-0014,Vestuário,Meião de Compressão,1,38.47,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,38.47
+FIS-000030,2026-01-03,SKU-0013,Fitness,Corda de Pular Profissional,3,48.94,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,146.82
+FIS-000031,2026-01-09,SKU-0002,Calçados,Tênis Trail Grip,3,398.65,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1195.95
+FIS-000032,2026-01-29,SKU-0007,Bolas,Bola de Vôlei Oficial,4,156.54,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,626.16
+FIS-000033,2026-01-15,SKU-0002,Calçados,Tênis Trail Grip,4,403.82,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1615.28
+FIS-000034,2026-01-08,SKU-0006,Bolas,Bola de Futebol Campo,1,131.25,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,131.25
+FIS-000035,2026-01-25,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,83.59,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,83.59
+FIS-000036,2026-01-15,SKU-0014,Vestuário,Meião de Compressão,1,38.98,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,38.98
+FIS-000037,2026-01-19,SKU-0008,Acessórios,Luva de Goleiro Grip,4,190.26,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,761.04
+FIS-000038,2026-01-20,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,83.87,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,335.48
+FIS-000039,2026-01-22,SKU-0014,Vestuário,Meião de Compressão,1,39.87,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,39.87
+FIS-000040,2026-01-13,SKU-0006,Bolas,Bola de Futebol Campo,3,128.71,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,386.13
+FIS-000041,2026-01-11,SKU-0002,Calçados,Tênis Trail Grip,3,414.21,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,1242.63
+FIS-000042,2026-01-01,SKU-0012,Fitness,Colchonete de Yoga,4,119.85,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,479.4
+FIS-000043,2026-01-16,SKU-0001,Calçados,Tênis Runner Pro X,3,348.32,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,1044.96
+FIS-000044,2026-01-28,SKU-0006,Bolas,Bola de Futebol Campo,4,124.91,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,499.64
+FIS-000045,2026-01-11,SKU-0014,Vestuário,Meião de Compressão,4,41.85,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,167.4
+FIS-000046,2026-01-06,SKU-0001,Calçados,Tênis Runner Pro X,3,338.97,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1016.91
+FIS-000047,2026-01-16,SKU-0013,Fitness,Corda de Pular Profissional,4,49.89,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,199.56
+FIS-000048,2026-01-07,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,78.04,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,156.08
+FIS-000049,2026-01-12,SKU-0008,Acessórios,Luva de Goleiro Grip,4,197.13,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,788.52
+FIS-000050,2026-01-26,SKU-0001,Calçados,Tênis Runner Pro X,2,366.46,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,732.92
+FIS-000051,2026-01-09,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,78.39,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,78.39
+FIS-000052,2026-01-11,SKU-0007,Bolas,Bola de Vôlei Oficial,1,143.8,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,143.8
+FIS-000053,2026-01-09,SKU-0002,Calçados,Tênis Trail Grip,2,405.81,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,811.62
+FIS-000054,2026-01-29,SKU-0015,Acessórios,Boné Esportivo UV,3,61.2,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,183.6
+FIS-000055,2026-01-20,SKU-0014,Vestuário,Meião de Compressão,4,39.83,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,159.32
+FIS-000056,2026-01-23,SKU-0008,Acessórios,Luva de Goleiro Grip,4,190.87,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,763.48
+FIS-000057,2026-01-29,SKU-0015,Acessórios,Boné Esportivo UV,2,60.5,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,121.0
+FIS-000058,2026-01-09,SKU-0005,Vestuário,Shorts de Corrida,4,102.62,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,410.48
+FIS-000059,2026-01-18,SKU-0015,Acessórios,Boné Esportivo UV,3,61.62,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,184.86
+FIS-000060,2026-01-01,SKU-0005,Vestuário,Shorts de Corrida,4,102.16,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,408.64
+FIS-000061,2026-01-17,SKU-0008,Acessórios,Luva de Goleiro Grip,3,190.63,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,571.89
+FIS-000062,2026-01-07,SKU-0009,Acessórios,Squeeze Térmico 1L,4,92.26,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,369.04
+FIS-000063,2026-01-03,SKU-0015,Acessórios,Boné Esportivo UV,2,58.83,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,117.66
+FIS-000064,2026-01-08,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,80.47,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,160.94
+FIS-000065,2026-01-24,SKU-0001,Calçados,Tênis Runner Pro X,4,343.54,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,1374.16
+FIS-000066,2026-01-14,SKU-0015,Acessórios,Boné Esportivo UV,4,61.77,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,247.08
+FIS-000067,2026-01-16,SKU-0013,Fitness,Corda de Pular Profissional,2,51.5,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,103.0
+FIS-000068,2026-01-18,SKU-0001,Calçados,Tênis Runner Pro X,3,336.82,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,1010.46
+FIS-000069,2026-01-25,SKU-0014,Vestuário,Meião de Compressão,1,41.28,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,41.28
+FIS-000070,2026-01-08,SKU-0015,Acessórios,Boné Esportivo UV,2,59.64,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,119.28
+FIS-000071,2026-01-23,SKU-0014,Vestuário,Meião de Compressão,2,40.52,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,81.04
+FIS-000072,2026-01-16,SKU-0008,Acessórios,Luva de Goleiro Grip,3,195.25,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,585.75
+FIS-000073,2026-01-21,SKU-0010,Acessórios,Mochila Esportiva 25L,1,224.14,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,224.14
+FIS-000074,2026-01-23,SKU-0014,Vestuário,Meião de Compressão,4,40.6,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,162.4
+FIS-000075,2026-01-16,SKU-0011,Fitness,Faixa de Resistência Kit,4,71.43,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,285.72
+FIS-000076,2026-01-15,SKU-0001,Calçados,Tênis Runner Pro X,2,354.01,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,708.02
+FIS-000077,2026-01-26,SKU-0011,Fitness,Faixa de Resistência Kit,2,72.84,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,145.68
+FIS-000078,2026-01-01,SKU-0002,Calçados,Tênis Trail Grip,1,397.26,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,397.26
+FIS-000079,2026-01-03,SKU-0012,Fitness,Colchonete de Yoga,4,124.37,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,497.48
+FIS-000080,2026-01-10,SKU-0012,Fitness,Colchonete de Yoga,1,117.5,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,117.5
+FIS-000081,2026-01-08,SKU-0006,Bolas,Bola de Futebol Campo,3,133.75,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,401.25
+FIS-000082,2026-01-13,SKU-0006,Bolas,Bola de Futebol Campo,2,129.0,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,258.0
+FIS-000083,2026-01-23,SKU-0007,Bolas,Bola de Vôlei Oficial,2,150.89,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,301.78
+FIS-000084,2026-01-08,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,76.54,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,306.16
+FIS-000085,2026-01-10,SKU-0011,Fitness,Faixa de Resistência Kit,2,68.09,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:39.123571+00:00,136.18
+FIS-000086,2026-01-22,SKU-0008,Acessórios,Luva de Goleiro Grip,4,192.52,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,770.08
+FIS-000087,2026-01-19,SKU-0011,Fitness,Faixa de Resistência Kit,4,66.47,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,265.88
+FIS-000088,2026-01-12,SKU-0011,Fitness,Faixa de Resistência Kit,1,70.23,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,70.23
+FIS-000089,2026-01-16,SKU-0006,Bolas,Bola de Futebol Campo,3,136.23,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:39.123571+00:00,408.69
+FIS-000090,2026-01-18,SKU-0007,Bolas,Bola de Vôlei Oficial,4,152.75,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:39.123571+00:00,611.0
+FIS-001000,2026-02-19,SKU-0002,Calçados,Tênis Trail Grip,4,409.77,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,1639.08
+FIS-001001,2026-02-20,SKU-0012,Fitness,Colchonete de Yoga,2,121.15,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,242.3
+FIS-001002,2026-02-25,SKU-0015,Acessórios,Boné Esportivo UV,3,58.34,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,175.02
+FIS-001003,2026-02-22,SKU-0007,Bolas,Bola de Vôlei Oficial,3,149.39,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,448.17
+FIS-001004,2026-02-27,SKU-0005,Vestuário,Shorts de Corrida,4,98.5,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,394.0
+FIS-001005,2026-02-11,SKU-0002,Calçados,Tênis Trail Grip,4,412.01,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,1648.04
+FIS-001006,2026-02-08,SKU-0015,Acessórios,Boné Esportivo UV,3,58.12,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,174.36
+FIS-001007,2026-02-10,SKU-0001,Calçados,Tênis Runner Pro X,2,352.09,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,704.18
+FIS-001008,2026-02-05,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,76.03,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,304.12
+FIS-001009,2026-02-22,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,77.47,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,154.94
+FIS-001010,2026-02-17,SKU-0010,Acessórios,Mochila Esportiva 25L,4,227.23,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,908.92
+FIS-001011,2026-02-08,SKU-0011,Fitness,Faixa de Resistência Kit,3,73.0,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,219.0
+FIS-001012,2026-02-14,SKU-0013,Fitness,Corda de Pular Profissional,4,51.5,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,206.0
+FIS-001013,2026-02-10,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,81.76,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,245.28
+FIS-001014,2026-02-09,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,81.66,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,326.64
+FIS-001015,2026-02-02,SKU-0015,Acessórios,Boné Esportivo UV,1,62.23,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,62.23
+FIS-001016,2026-02-18,SKU-0001,Calçados,Tênis Runner Pro X,1,361.76,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,361.76
+FIS-001017,2026-02-19,SKU-0001,Calçados,Tênis Runner Pro X,4,359.15,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,1436.6
+FIS-001018,2026-02-24,SKU-0014,Vestuário,Meião de Compressão,1,40.42,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,40.42
+FIS-001019,2026-02-06,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,75.98,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,303.92
+FIS-001020,2026-02-21,SKU-0001,Calçados,Tênis Runner Pro X,4,354.02,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1416.08
+FIS-001021,2026-02-22,SKU-0008,Acessórios,Luva de Goleiro Grip,4,180.7,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,722.8
+FIS-001022,2026-02-14,SKU-0001,Calçados,Tênis Runner Pro X,3,350.93,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1052.79
+FIS-001023,2026-02-18,SKU-0005,Vestuário,Shorts de Corrida,4,95.08,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,380.32
+FIS-001024,2026-02-16,SKU-0002,Calçados,Tênis Trail Grip,2,416.62,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,833.24
+FIS-001025,2026-02-02,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,80.86,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,242.58
+FIS-001026,2026-02-12,SKU-0005,Vestuário,Shorts de Corrida,1,102.85,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,102.85
+FIS-001027,2026-02-21,SKU-0007,Bolas,Bola de Vôlei Oficial,2,149.29,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,298.58
+FIS-001028,2026-02-22,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,78.3,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,78.3
+FIS-001029,2026-02-13,SKU-0014,Vestuário,Meião de Compressão,1,40.5,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,40.5
+FIS-001030,2026-02-26,SKU-0007,Bolas,Bola de Vôlei Oficial,4,148.09,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,592.36
+FIS-001031,2026-02-17,SKU-0011,Fitness,Faixa de Resistência Kit,2,66.47,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,132.94
+FIS-001032,2026-02-11,SKU-0008,Acessórios,Luva de Goleiro Grip,3,196.46,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,589.38
+FIS-001033,2026-02-23,SKU-0014,Vestuário,Meião de Compressão,1,41.79,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,41.79
+FIS-001034,2026-02-14,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,4,83.11,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,332.44
+FIS-001035,2026-02-14,SKU-0001,Calçados,Tênis Runner Pro X,3,364.74,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1094.22
+FIS-001036,2026-02-05,SKU-0010,Acessórios,Mochila Esportiva 25L,2,223.38,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,446.76
+FIS-001037,2026-02-10,SKU-0001,Calçados,Tênis Runner Pro X,2,366.05,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,732.1
+FIS-001038,2026-02-13,SKU-0014,Vestuário,Meião de Compressão,1,39.49,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,39.49
+FIS-001039,2026-02-06,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,80.41,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,321.64
+FIS-001040,2026-02-25,SKU-0015,Acessórios,Boné Esportivo UV,4,60.14,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,240.56
+FIS-001041,2026-02-18,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,82.22,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,82.22
+FIS-001042,2026-02-16,SKU-0012,Fitness,Colchonete de Yoga,1,125.59,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,125.59
+FIS-001043,2026-02-08,SKU-0007,Bolas,Bola de Vôlei Oficial,1,145.88,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,145.88
+FIS-001044,2026-02-28,SKU-0010,Acessórios,Mochila Esportiva 25L,4,225.82,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,903.28
+FIS-001045,2026-02-08,SKU-0001,Calçados,Tênis Runner Pro X,4,354.59,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,1418.36
+FIS-001046,2026-02-10,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,4,78.75,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,315.0
+FIS-001047,2026-02-28,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,81.34,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,325.36
+FIS-001048,2026-02-23,SKU-0013,Fitness,Corda de Pular Profissional,2,50.49,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,100.98
+FIS-001049,2026-02-05,SKU-0002,Calçados,Tênis Trail Grip,2,383.19,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,766.38
+FIS-001050,2026-02-26,SKU-0012,Fitness,Colchonete de Yoga,2,123.3,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,246.6
+FIS-001051,2026-02-15,SKU-0007,Bolas,Bola de Vôlei Oficial,1,147.15,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,147.15
+FIS-001052,2026-02-02,SKU-0001,Calçados,Tênis Runner Pro X,4,365.4,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,1461.6
+FIS-001053,2026-02-18,SKU-0013,Fitness,Corda de Pular Profissional,2,48.75,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,97.5
+FIS-001054,2026-02-14,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,79.35,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,317.4
+FIS-001055,2026-02-14,SKU-0001,Calçados,Tênis Runner Pro X,1,335.54,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,335.54
+FIS-001056,2026-02-18,SKU-0010,Acessórios,Mochila Esportiva 25L,4,226.15,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,904.6
+FIS-001057,2026-02-17,SKU-0005,Vestuário,Shorts de Corrida,1,99.04,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,99.04
+FIS-001058,2026-02-05,SKU-0015,Acessórios,Boné Esportivo UV,2,60.26,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,120.52
+FIS-001059,2026-02-13,SKU-0009,Acessórios,Squeeze Térmico 1L,4,86.93,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,347.72
+FIS-001060,2026-02-08,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,78.05,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,234.15
+FIS-001061,2026-02-09,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,4,76.41,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,305.64
+FIS-001062,2026-02-07,SKU-0007,Bolas,Bola de Vôlei Oficial,1,146.9,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,146.9
+FIS-001063,2026-02-11,SKU-0005,Vestuário,Shorts de Corrida,4,104.34,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,417.36
+FIS-001064,2026-02-21,SKU-0010,Acessórios,Mochila Esportiva 25L,1,213.21,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,213.21
+FIS-001065,2026-02-03,SKU-0005,Vestuário,Shorts de Corrida,4,94.97,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,379.88
+FIS-001066,2026-02-15,SKU-0014,Vestuário,Meião de Compressão,3,40.38,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,121.14
+FIS-001067,2026-02-28,SKU-0006,Bolas,Bola de Futebol Campo,2,129.0,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,258.0
+FIS-001068,2026-02-12,SKU-0006,Bolas,Bola de Futebol Campo,2,131.24,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,262.48
+FIS-001069,2026-02-03,SKU-0006,Bolas,Bola de Futebol Campo,4,125.71,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,502.84
+FIS-001070,2026-02-18,SKU-0005,Vestuário,Shorts de Corrida,4,102.25,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,409.0
+FIS-001071,2026-02-24,SKU-0013,Fitness,Corda de Pular Profissional,4,48.61,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,194.44
+FIS-001072,2026-02-27,SKU-0014,Vestuário,Meião de Compressão,3,41.04,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,123.12
+FIS-001073,2026-02-07,SKU-0015,Acessórios,Boné Esportivo UV,2,60.28,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,120.56
+FIS-001074,2026-02-02,SKU-0013,Fitness,Corda de Pular Profissional,4,50.15,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,200.6
+FIS-001075,2026-02-09,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,79.41,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,238.23
+FIS-001076,2026-02-13,SKU-0002,Calçados,Tênis Trail Grip,4,412.66,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1650.64
+FIS-001077,2026-02-22,SKU-0008,Acessórios,Luva de Goleiro Grip,3,183.05,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,549.15
+FIS-001078,2026-02-20,SKU-0005,Vestuário,Shorts de Corrida,4,101.49,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,405.96
+FIS-001079,2026-02-20,SKU-0002,Calçados,Tênis Trail Grip,4,397.86,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1591.44
+FIS-001080,2026-02-02,SKU-0007,Bolas,Bola de Vôlei Oficial,4,150.42,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,601.68
+FIS-001081,2026-02-28,SKU-0001,Calçados,Tênis Runner Pro X,3,360.07,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,1080.21
+FIS-001082,2026-02-03,SKU-0015,Acessórios,Boné Esportivo UV,1,61.77,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,61.77
+FIS-001083,2026-02-07,SKU-0013,Fitness,Corda de Pular Profissional,3,48.64,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,145.92
+FIS-001084,2026-02-26,SKU-0011,Fitness,Faixa de Resistência Kit,4,70.69,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,282.76
+FIS-001085,2026-02-25,SKU-0013,Fitness,Corda de Pular Profissional,1,49.55,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,49.55
+FIS-001086,2026-02-19,SKU-0005,Vestuário,Shorts de Corrida,2,97.12,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,194.24
+FIS-001087,2026-02-24,SKU-0006,Bolas,Bola de Futebol Campo,2,128.49,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,256.98
+FIS-001088,2026-02-22,SKU-0001,Calçados,Tênis Runner Pro X,3,349.3,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,1047.9
+FIS-001089,2026-02-18,SKU-0015,Acessórios,Boné Esportivo UV,1,62.67,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,62.67
+FIS-001090,2026-02-07,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,78.69,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,236.07
+FIS-001091,2026-02-16,SKU-0013,Fitness,Corda de Pular Profissional,4,48.44,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,193.76
+FIS-001092,2026-02-07,SKU-0008,Acessórios,Luva de Goleiro Grip,4,182.26,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,729.04
+FIS-001093,2026-02-28,SKU-0002,Calçados,Tênis Trail Grip,1,391.91,loja_fisica,Loja SP - Paulista,2026-10-11T05:15:41.243554+00:00,391.91
+FIS-001094,2026-02-11,SKU-0014,Vestuário,Meião de Compressão,1,39.27,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,39.27
+FIS-001095,2026-02-10,SKU-0013,Fitness,Corda de Pular Profissional,2,48.23,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,96.46
+FIS-001096,2026-02-01,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,80.31,loja_fisica,Loja BH - Savassi,2026-10-11T05:15:41.243554+00:00,240.93
+FIS-001097,2026-02-07,SKU-0007,Bolas,Bola de Vôlei Oficial,2,156.77,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,313.54
+FIS-001098,2026-02-07,SKU-0011,Fitness,Faixa de Resistência Kit,4,67.69,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,270.76
+FIS-001099,2026-02-24,SKU-0001,Calçados,Tênis Runner Pro X,2,358.21,loja_fisica,Loja RJ - Barra,2026-10-11T05:15:41.243554+00:00,716.42
+ON-000001,2026-01-21,SKU-0009,Acessórios,Squeeze Térmico 1L,3,88.32,loja_online,site,2026-10-11T05:15:30.355492+00:00,264.96
+ON-000002,2026-01-04,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,79.11,loja_online,site,2026-10-11T05:15:30.355492+00:00,158.22
+ON-000003,2026-01-01,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,81.14,loja_online,app,2026-10-11T05:15:30.355492+00:00,81.14
+ON-000004,2026-01-24,SKU-0015,Acessórios,Boné Esportivo UV,1,58.49,loja_online,site,2026-10-11T05:15:30.355492+00:00,58.49
+ON-000005,2026-01-09,SKU-0012,Fitness,Colchonete de Yoga,2,122.86,loja_online,app,2026-10-11T05:15:30.355492+00:00,245.72
+ON-000006,2026-01-08,SKU-0015,Acessórios,Boné Esportivo UV,2,58.22,loja_online,site,2026-10-11T05:15:30.355492+00:00,116.44
+ON-000007,2026-01-08,SKU-0009,Acessórios,Squeeze Térmico 1L,1,92.2,loja_online,site,2026-10-11T05:15:30.355492+00:00,92.2
+ON-000008,2026-01-05,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,79.28,loja_online,site,2026-10-11T05:15:30.355492+00:00,237.84
+ON-000009,2026-01-24,SKU-0007,Bolas,Bola de Vôlei Oficial,3,157.34,loja_online,app,2026-10-11T05:15:30.355492+00:00,472.02
+ON-000010,2026-01-04,SKU-0009,Acessórios,Squeeze Térmico 1L,3,91.88,loja_online,app,2026-10-11T05:15:30.355492+00:00,275.64
+ON-000011,2026-01-22,SKU-0013,Fitness,Corda de Pular Profissional,1,48.87,loja_online,site,2026-10-11T05:15:30.355492+00:00,48.87
+ON-000012,2026-01-24,SKU-0008,Acessórios,Luva de Goleiro Grip,3,197.04,loja_online,app,2026-10-11T05:15:30.355492+00:00,591.12
+ON-000013,2026-01-29,SKU-0009,Acessórios,Squeeze Térmico 1L,3,93.61,loja_online,app,2026-10-11T05:15:30.355492+00:00,280.83
+ON-000014,2026-01-18,SKU-0014,Vestuário,Meião de Compressão,3,38.7,loja_online,app,2026-10-11T05:15:30.355492+00:00,116.1
+ON-000015,2026-01-03,SKU-0013,Fitness,Corda de Pular Profissional,3,52.16,loja_online,site,2026-10-11T05:15:30.355492+00:00,156.48
+ON-000016,2026-01-19,SKU-0010,Acessórios,Mochila Esportiva 25L,2,209.33,loja_online,app,2026-10-11T05:15:30.355492+00:00,418.66
+ON-000017,2026-01-14,SKU-0015,Acessórios,Boné Esportivo UV,1,57.25,loja_online,site,2026-10-11T05:15:30.355492+00:00,57.25
+ON-000018,2026-01-02,SKU-0002,Calçados,Tênis Trail Grip,1,419.01,loja_online,site,2026-10-11T05:15:30.355492+00:00,419.01
+ON-000019,2026-01-01,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,77.22,loja_online,app,2026-10-11T05:15:30.355492+00:00,231.66
+ON-000020,2026-01-03,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,81.42,loja_online,app,2026-10-11T05:15:30.355492+00:00,244.26
+ON-000021,2026-01-07,SKU-0007,Bolas,Bola de Vôlei Oficial,2,155.89,loja_online,app,2026-10-11T05:15:30.355492+00:00,311.78
+ON-000022,2026-01-08,SKU-0002,Calçados,Tênis Trail Grip,1,382.47,loja_online,site,2026-10-11T05:15:30.355492+00:00,382.47
+ON-000023,2026-01-17,SKU-0010,Acessórios,Mochila Esportiva 25L,3,213.75,loja_online,site,2026-10-11T05:15:30.355492+00:00,641.25
+ON-000024,2026-01-20,SKU-0012,Fitness,Colchonete de Yoga,1,114.71,loja_online,site,2026-10-11T05:15:30.355492+00:00,114.71
+ON-000025,2026-01-01,SKU-0014,Vestuário,Meião de Compressão,1,39.96,loja_online,app,2026-10-11T05:15:30.355492+00:00,39.96
+ON-000026,2026-01-18,SKU-0011,Fitness,Faixa de Resistência Kit,1,70.17,loja_online,app,2026-10-11T05:15:30.355492+00:00,70.17
+ON-000027,2026-01-07,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,77.43,loja_online,site,2026-10-11T05:15:30.355492+00:00,154.86
+ON-000028,2026-01-23,SKU-0011,Fitness,Faixa de Resistência Kit,2,69.37,loja_online,app,2026-10-11T05:15:30.355492+00:00,138.74
+ON-000029,2026-01-21,SKU-0014,Vestuário,Meião de Compressão,3,40.51,loja_online,site,2026-10-11T05:15:30.355492+00:00,121.53
+ON-000030,2026-01-23,SKU-0001,Calçados,Tênis Runner Pro X,3,344.28,loja_online,site,2026-10-11T05:15:30.355492+00:00,1032.84
+ON-000031,2026-01-18,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,80.19,loja_online,site,2026-10-11T05:15:30.355492+00:00,80.19
+ON-000032,2026-01-14,SKU-0007,Bolas,Bola de Vôlei Oficial,2,149.34,loja_online,site,2026-10-11T05:15:30.355492+00:00,298.68
+ON-000033,2026-01-08,SKU-0008,Acessórios,Luva de Goleiro Grip,1,192.79,loja_online,site,2026-10-11T05:15:30.355492+00:00,192.79
+ON-000034,2026-01-15,SKU-0002,Calçados,Tênis Trail Grip,1,396.16,loja_online,app,2026-10-11T05:15:30.355492+00:00,396.16
+ON-000035,2026-01-19,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,77.22,loja_online,site,2026-10-11T05:15:30.355492+00:00,77.22
+ON-000036,2026-01-09,SKU-0007,Bolas,Bola de Vôlei Oficial,2,146.68,loja_online,app,2026-10-11T05:15:30.355492+00:00,293.36
+ON-000037,2026-01-26,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,77.64,loja_online,site,2026-10-11T05:15:30.355492+00:00,155.28
+ON-000038,2026-01-28,SKU-0010,Acessórios,Mochila Esportiva 25L,1,225.35,loja_online,site,2026-10-11T05:15:30.355492+00:00,225.35
+ON-000039,2026-01-01,SKU-0001,Calçados,Tênis Runner Pro X,3,364.57,loja_online,site,2026-10-11T05:15:30.355492+00:00,1093.71
+ON-000040,2026-01-25,SKU-0001,Calçados,Tênis Runner Pro X,1,362.19,loja_online,site,2026-10-11T05:15:30.355492+00:00,362.19
+ON-000041,2026-01-26,SKU-0010,Acessórios,Mochila Esportiva 25L,3,227.86,loja_online,app,2026-10-11T05:15:30.355492+00:00,683.58
+ON-000042,2026-01-06,SKU-0002,Calçados,Tênis Trail Grip,3,403.68,loja_online,site,2026-10-11T05:15:30.355492+00:00,1211.04
+ON-000043,2026-01-23,SKU-0007,Bolas,Bola de Vôlei Oficial,2,156.42,loja_online,site,2026-10-11T05:15:30.355492+00:00,312.84
+ON-000044,2026-01-14,SKU-0011,Fitness,Faixa de Resistência Kit,1,68.26,loja_online,site,2026-10-11T05:15:30.355492+00:00,68.26
+ON-000045,2026-01-11,SKU-0011,Fitness,Faixa de Resistência Kit,2,68.62,loja_online,site,2026-10-11T05:15:30.355492+00:00,137.24
+ON-000046,2026-01-09,SKU-0001,Calçados,Tênis Runner Pro X,3,367.34,loja_online,site,2026-10-11T05:15:30.355492+00:00,1102.02
+ON-000047,2026-01-05,SKU-0002,Calçados,Tênis Trail Grip,1,400.14,loja_online,site,2026-10-11T05:15:30.355492+00:00,400.14
+ON-000048,2026-01-07,SKU-0015,Acessórios,Boné Esportivo UV,1,62.17,loja_online,app,2026-10-11T05:15:30.355492+00:00,62.17
+ON-000049,2026-01-25,SKU-0005,Vestuário,Shorts de Corrida,2,103.23,loja_online,app,2026-10-11T05:15:30.355492+00:00,206.46
+ON-000050,2026-01-11,SKU-0010,Acessórios,Mochila Esportiva 25L,1,223.59,loja_online,app,2026-10-11T05:15:30.355492+00:00,223.59
+ON-000051,2026-01-04,SKU-0015,Acessórios,Boné Esportivo UV,1,58.49,loja_online,site,2026-10-11T05:15:30.355492+00:00,58.49
+ON-000052,2026-01-03,SKU-0012,Fitness,Colchonete de Yoga,2,117.28,loja_online,site,2026-10-11T05:15:30.355492+00:00,234.56
+ON-000053,2026-01-13,SKU-0012,Fitness,Colchonete de Yoga,1,122.15,loja_online,app,2026-10-11T05:15:30.355492+00:00,122.15
+ON-000054,2026-01-04,SKU-0009,Acessórios,Squeeze Térmico 1L,2,93.54,loja_online,site,2026-10-11T05:15:30.355492+00:00,187.08
+ON-000055,2026-01-12,SKU-0002,Calçados,Tênis Trail Grip,2,381.67,loja_online,app,2026-10-11T05:15:30.355492+00:00,763.34
+ON-000056,2026-01-28,SKU-0013,Fitness,Corda de Pular Profissional,3,52.29,loja_online,site,2026-10-11T05:15:30.355492+00:00,156.87
+ON-000057,2026-01-12,SKU-0012,Fitness,Colchonete de Yoga,3,122.37,loja_online,site,2026-10-11T05:15:30.355492+00:00,367.11
+ON-000058,2026-01-20,SKU-0002,Calçados,Tênis Trail Grip,3,416.05,loja_online,site,2026-10-11T05:15:30.355492+00:00,1248.15
+ON-000059,2026-01-09,SKU-0014,Vestuário,Meião de Compressão,3,40.11,loja_online,app,2026-10-11T05:15:30.355492+00:00,120.33
+ON-000060,2026-01-26,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.82,loja_online,site,2026-10-11T05:15:30.355492+00:00,157.64
+ON-000061,2026-01-02,SKU-0015,Acessórios,Boné Esportivo UV,1,60.99,loja_online,site,2026-10-11T05:15:30.355492+00:00,60.99
+ON-000062,2026-01-24,SKU-0006,Bolas,Bola de Futebol Campo,3,133.14,loja_online,site,2026-10-11T05:15:30.355492+00:00,399.42
+ON-000063,2026-01-15,SKU-0014,Vestuário,Meião de Compressão,1,41.42,loja_online,site,2026-10-11T05:15:30.355492+00:00,41.42
+ON-000064,2026-01-18,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,82.31,loja_online,site,2026-10-11T05:15:30.355492+00:00,164.62
+ON-000065,2026-01-04,SKU-0005,Vestuário,Shorts de Corrida,3,95.98,loja_online,site,2026-10-11T05:15:30.355492+00:00,287.94
+ON-000066,2026-01-30,SKU-0014,Vestuário,Meião de Compressão,1,38.7,loja_online,app,2026-10-11T05:15:30.355492+00:00,38.7
+ON-000067,2026-01-13,SKU-0006,Bolas,Bola de Futebol Campo,1,126.3,loja_online,site,2026-10-11T05:15:30.355492+00:00,126.3
+ON-000068,2026-01-03,SKU-0007,Bolas,Bola de Vôlei Oficial,2,155.36,loja_online,app,2026-10-11T05:15:30.355492+00:00,310.72
+ON-000069,2026-01-18,SKU-0006,Bolas,Bola de Futebol Campo,2,132.23,loja_online,app,2026-10-11T05:15:30.355492+00:00,264.46
+ON-000070,2026-01-10,SKU-0001,Calçados,Tênis Runner Pro X,2,338.65,loja_online,app,2026-10-11T05:15:30.355492+00:00,677.3
+ON-000071,2026-01-27,SKU-0001,Calçados,Tênis Runner Pro X,3,347.61,loja_online,app,2026-10-11T05:15:30.355492+00:00,1042.83
+ON-000072,2026-01-21,SKU-0007,Bolas,Bola de Vôlei Oficial,1,148.18,loja_online,site,2026-10-11T05:15:30.355492+00:00,148.18
+ON-000073,2026-01-20,SKU-0005,Vestuário,Shorts de Corrida,3,99.26,loja_online,site,2026-10-11T05:15:30.355492+00:00,297.78
+ON-000074,2026-01-29,SKU-0006,Bolas,Bola de Futebol Campo,1,135.73,loja_online,app,2026-10-11T05:15:30.355492+00:00,135.73
+ON-000075,2026-01-28,SKU-0010,Acessórios,Mochila Esportiva 25L,3,227.55,loja_online,app,2026-10-11T05:15:30.355492+00:00,682.65
+ON-000076,2026-01-12,SKU-0009,Acessórios,Squeeze Térmico 1L,3,89.08,loja_online,app,2026-10-11T05:15:30.355492+00:00,267.24
+ON-000077,2026-01-19,SKU-0012,Fitness,Colchonete de Yoga,3,115.43,loja_online,app,2026-10-11T05:15:30.355492+00:00,346.29
+ON-000078,2026-01-07,SKU-0011,Fitness,Faixa de Resistência Kit,3,71.63,loja_online,site,2026-10-11T05:15:30.355492+00:00,214.89
+ON-000079,2026-01-23,SKU-0010,Acessórios,Mochila Esportiva 25L,2,220.95,loja_online,site,2026-10-11T05:15:30.355492+00:00,441.9
+ON-000080,2026-01-03,SKU-0005,Vestuário,Shorts de Corrida,1,99.2,loja_online,app,2026-10-11T05:15:30.355492+00:00,99.2
+ON-000081,2026-01-02,SKU-0008,Acessórios,Luva de Goleiro Grip,2,193.24,loja_online,app,2026-10-11T05:15:30.355492+00:00,386.48
+ON-000082,2026-01-22,SKU-0013,Fitness,Corda de Pular Profissional,3,47.83,loja_online,app,2026-10-11T05:15:30.355492+00:00,143.49
+ON-000083,2026-01-08,SKU-0002,Calçados,Tênis Trail Grip,3,392.32,loja_online,site,2026-10-11T05:15:30.355492+00:00,1176.96
+ON-000084,2026-01-25,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,77.86,loja_online,app,2026-10-11T05:15:30.355492+00:00,77.86
+ON-000085,2026-01-10,SKU-0010,Acessórios,Mochila Esportiva 25L,2,218.02,loja_online,site,2026-10-11T05:15:30.355492+00:00,436.04
+ON-000086,2026-01-03,SKU-0012,Fitness,Colchonete de Yoga,2,118.7,loja_online,site,2026-10-11T05:15:30.355492+00:00,237.4
+ON-000087,2026-01-28,SKU-0011,Fitness,Faixa de Resistência Kit,1,71.85,loja_online,site,2026-10-11T05:15:30.355492+00:00,71.85
+ON-000088,2026-01-08,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,76.31,loja_online,site,2026-10-11T05:15:30.355492+00:00,152.62
+ON-000089,2026-01-28,SKU-0015,Acessórios,Boné Esportivo UV,2,57.7,loja_online,app,2026-10-11T05:15:30.355492+00:00,115.4
+ON-000090,2026-01-04,SKU-0011,Fitness,Faixa de Resistência Kit,3,70.57,loja_online,app,2026-10-11T05:15:30.355492+00:00,211.71
+ON-000091,2026-01-13,SKU-0010,Acessórios,Mochila Esportiva 25L,2,227.17,loja_online,app,2026-10-11T05:15:30.355492+00:00,454.34
+ON-000092,2026-01-09,SKU-0015,Acessórios,Boné Esportivo UV,3,62.07,loja_online,app,2026-10-11T05:15:30.355492+00:00,186.21
+ON-000093,2026-01-15,SKU-0005,Vestuário,Shorts de Corrida,3,97.68,loja_online,app,2026-10-11T05:15:30.355492+00:00,293.04
+ON-000094,2026-01-21,SKU-0011,Fitness,Faixa de Resistência Kit,2,69.48,loja_online,app,2026-10-11T05:15:30.355492+00:00,138.96
+ON-000095,2026-01-27,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,78.46,loja_online,site,2026-10-11T05:15:30.355492+00:00,156.92
+ON-000096,2026-01-12,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,78.97,loja_online,site,2026-10-11T05:15:30.355492+00:00,78.97
+ON-000097,2026-01-06,SKU-0012,Fitness,Colchonete de Yoga,1,118.88,loja_online,app,2026-10-11T05:15:30.355492+00:00,118.88
+ON-000098,2026-01-12,SKU-0009,Acessórios,Squeeze Térmico 1L,2,85.96,loja_online,app,2026-10-11T05:15:30.355492+00:00,171.92
+ON-000099,2026-01-12,SKU-0007,Bolas,Bola de Vôlei Oficial,3,148.11,loja_online,site,2026-10-11T05:15:30.355492+00:00,444.33
+ON-000100,2026-01-07,SKU-0006,Bolas,Bola de Futebol Campo,2,134.49,loja_online,app,2026-10-11T05:15:30.355492+00:00,268.98
+ON-000101,2026-01-22,SKU-0009,Acessórios,Squeeze Térmico 1L,3,93.48,loja_online,app,2026-10-11T05:15:30.355492+00:00,280.44
+ON-000102,2026-01-09,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,79.79,loja_online,app,2026-10-11T05:15:30.355492+00:00,159.58
+ON-000103,2026-01-23,SKU-0006,Bolas,Bola de Futebol Campo,3,125.55,loja_online,app,2026-10-11T05:15:30.355492+00:00,376.65
+ON-000104,2026-01-30,SKU-0015,Acessórios,Boné Esportivo UV,3,60.1,loja_online,app,2026-10-11T05:15:30.355492+00:00,180.3
+ON-000105,2026-01-22,SKU-0010,Acessórios,Mochila Esportiva 25L,1,223.04,loja_online,site,2026-10-11T05:15:30.355492+00:00,223.04
+ON-000106,2026-01-21,SKU-0014,Vestuário,Meião de Compressão,1,38.11,loja_online,app,2026-10-11T05:15:30.355492+00:00,38.11
+ON-000107,2026-01-03,SKU-0006,Bolas,Bola de Futebol Campo,2,127.65,loja_online,app,2026-10-11T05:15:30.355492+00:00,255.3
+ON-000108,2026-01-20,SKU-0005,Vestuário,Shorts de Corrida,2,103.25,loja_online,app,2026-10-11T05:15:30.355492+00:00,206.5
+ON-000109,2026-01-21,SKU-0001,Calçados,Tênis Runner Pro X,1,367.39,loja_online,app,2026-10-11T05:15:30.355492+00:00,367.39
+ON-000110,2026-01-06,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,76.23,loja_online,site,2026-10-11T05:15:30.355492+00:00,228.69
+ON-000111,2026-01-18,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,80.87,loja_online,site,2026-10-11T05:15:30.355492+00:00,80.87
+ON-000112,2026-01-24,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,76.82,loja_online,site,2026-10-11T05:15:30.355492+00:00,230.46
+ON-000113,2026-01-08,SKU-0008,Acessórios,Luva de Goleiro Grip,2,183.59,loja_online,site,2026-10-11T05:15:30.355492+00:00,367.18
+ON-000114,2026-01-06,SKU-0013,Fitness,Corda de Pular Profissional,2,47.94,loja_online,site,2026-10-11T05:15:30.355492+00:00,95.88
+ON-000115,2026-01-15,SKU-0015,Acessórios,Boné Esportivo UV,3,60.96,loja_online,app,2026-10-11T05:15:30.355492+00:00,182.88
+ON-000116,2026-01-13,SKU-0007,Bolas,Bola de Vôlei Oficial,1,151.28,loja_online,site,2026-10-11T05:15:30.355492+00:00,151.28
+ON-000117,2026-01-09,SKU-0002,Calçados,Tênis Trail Grip,3,403.92,loja_online,site,2026-10-11T05:15:30.355492+00:00,1211.76
+ON-000118,2026-01-30,SKU-0013,Fitness,Corda de Pular Profissional,2,50.06,loja_online,app,2026-10-11T05:15:30.355492+00:00,100.12
+ON-000119,2026-01-21,SKU-0002,Calçados,Tênis Trail Grip,3,393.55,loja_online,app,2026-10-11T05:15:30.355492+00:00,1180.65
+ON-000120,2026-01-23,SKU-0014,Vestuário,Meião de Compressão,1,39.63,loja_online,app,2026-10-11T05:15:30.355492+00:00,39.63
+ON-001000,2026-02-15,SKU-0011,Fitness,Faixa de Resistência Kit,2,68.18,loja_online,site,2026-10-11T05:15:37.212374+00:00,136.36
+ON-001001,2026-02-25,SKU-0006,Bolas,Bola de Futebol Campo,2,126.54,loja_online,site,2026-10-11T05:15:37.212374+00:00,253.08
+ON-001002,2026-02-10,SKU-0013,Fitness,Corda de Pular Profissional,1,47.63,loja_online,app,2026-10-11T05:15:37.212374+00:00,47.63
+ON-001003,2026-02-25,SKU-0014,Vestuário,Meião de Compressão,3,39.76,loja_online,app,2026-10-11T05:15:37.212374+00:00,119.28
+ON-001004,2026-02-13,SKU-0011,Fitness,Faixa de Resistência Kit,1,66.85,loja_online,app,2026-10-11T05:15:37.212374+00:00,66.85
+ON-001005,2026-02-17,SKU-0001,Calçados,Tênis Runner Pro X,1,333.94,loja_online,site,2026-10-11T05:15:37.212374+00:00,333.94
+ON-001006,2026-02-17,SKU-0015,Acessórios,Boné Esportivo UV,2,62.5,loja_online,app,2026-10-11T05:15:37.212374+00:00,125.0
+ON-001007,2026-02-14,SKU-0014,Vestuário,Meião de Compressão,2,38.92,loja_online,site,2026-10-11T05:15:37.212374+00:00,77.84
+ON-001008,2026-02-06,SKU-0005,Vestuário,Shorts de Corrida,1,103.55,loja_online,app,2026-10-11T05:15:37.212374+00:00,103.55
+ON-001009,2026-02-27,SKU-0005,Vestuário,Shorts de Corrida,2,99.27,loja_online,app,2026-10-11T05:15:37.212374+00:00,198.54
+ON-001010,2026-02-07,SKU-0012,Fitness,Colchonete de Yoga,2,117.97,loja_online,site,2026-10-11T05:15:37.212374+00:00,235.94
+ON-001011,2026-02-26,SKU-0008,Acessórios,Luva de Goleiro Grip,2,197.96,loja_online,app,2026-10-11T05:15:37.212374+00:00,395.92
+ON-001012,2026-02-20,SKU-0013,Fitness,Corda de Pular Profissional,3,49.52,loja_online,app,2026-10-11T05:15:37.212374+00:00,148.56
+ON-001013,2026-02-05,SKU-0010,Acessórios,Mochila Esportiva 25L,3,215.36,loja_online,site,2026-10-11T05:15:37.212374+00:00,646.08
+ON-001014,2026-02-28,SKU-0002,Calçados,Tênis Trail Grip,3,391.73,loja_online,app,2026-10-11T05:15:37.212374+00:00,1175.19
+ON-001015,2026-02-09,SKU-0010,Acessórios,Mochila Esportiva 25L,1,224.07,loja_online,app,2026-10-11T05:15:37.212374+00:00,224.07
+ON-001016,2026-02-02,SKU-0008,Acessórios,Luva de Goleiro Grip,3,196.93,loja_online,app,2026-10-11T05:15:37.212374+00:00,590.79
+ON-001017,2026-02-21,SKU-0010,Acessórios,Mochila Esportiva 25L,2,222.97,loja_online,site,2026-10-11T05:15:37.212374+00:00,445.94
+ON-001018,2026-02-16,SKU-0002,Calçados,Tênis Trail Grip,2,400.42,loja_online,site,2026-10-11T05:15:37.212374+00:00,800.84
+ON-001019,2026-02-28,SKU-0001,Calçados,Tênis Runner Pro X,3,356.13,loja_online,app,2026-10-11T05:15:37.212374+00:00,1068.39
+ON-001020,2026-02-12,SKU-0001,Calçados,Tênis Runner Pro X,1,340.66,loja_online,app,2026-10-11T05:15:37.212374+00:00,340.66
+ON-001021,2026-02-18,SKU-0006,Bolas,Bola de Futebol Campo,3,123.83,loja_online,site,2026-10-11T05:15:37.212374+00:00,371.49
+ON-001022,2026-02-04,SKU-0011,Fitness,Faixa de Resistência Kit,2,69.01,loja_online,site,2026-10-11T05:15:37.212374+00:00,138.02
+ON-001023,2026-02-23,SKU-0010,Acessórios,Mochila Esportiva 25L,3,216.97,loja_online,app,2026-10-11T05:15:37.212374+00:00,650.91
+ON-001024,2026-02-28,SKU-0011,Fitness,Faixa de Resistência Kit,1,73.12,loja_online,site,2026-10-11T05:15:37.212374+00:00,73.12
+ON-001025,2026-02-17,SKU-0012,Fitness,Colchonete de Yoga,2,120.11,loja_online,site,2026-10-11T05:15:37.212374+00:00,240.22
+ON-001026,2026-02-28,SKU-0005,Vestuário,Shorts de Corrida,3,99.36,loja_online,app,2026-10-11T05:15:37.212374+00:00,298.08
+ON-001027,2026-02-04,SKU-0012,Fitness,Colchonete de Yoga,1,115.38,loja_online,site,2026-10-11T05:15:37.212374+00:00,115.38
+ON-001028,2026-02-10,SKU-0008,Acessórios,Luva de Goleiro Grip,3,188.86,loja_online,site,2026-10-11T05:15:37.212374+00:00,566.58
+ON-001029,2026-02-03,SKU-0013,Fitness,Corda de Pular Profissional,3,49.14,loja_online,site,2026-10-11T05:15:37.212374+00:00,147.42
+ON-001030,2026-02-25,SKU-0009,Acessórios,Squeeze Térmico 1L,2,93.42,loja_online,site,2026-10-11T05:15:37.212374+00:00,186.84
+ON-001031,2026-02-06,SKU-0012,Fitness,Colchonete de Yoga,2,120.0,loja_online,site,2026-10-11T05:15:37.212374+00:00,240.0
+ON-001032,2026-02-09,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,82.22,loja_online,site,2026-10-11T05:15:37.212374+00:00,82.22
+ON-001033,2026-02-15,SKU-0006,Bolas,Bola de Futebol Campo,2,133.84,loja_online,site,2026-10-11T05:15:37.212374+00:00,267.68
+ON-001034,2026-02-17,SKU-0010,Acessórios,Mochila Esportiva 25L,1,215.71,loja_online,app,2026-10-11T05:15:37.212374+00:00,215.71
+ON-001035,2026-02-05,SKU-0009,Acessórios,Squeeze Térmico 1L,2,92.81,loja_online,site,2026-10-11T05:15:37.212374+00:00,185.62
+ON-001036,2026-02-27,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,76.5,loja_online,app,2026-10-11T05:15:37.212374+00:00,229.5
+ON-001037,2026-02-14,SKU-0011,Fitness,Faixa de Resistência Kit,2,67.3,loja_online,site,2026-10-11T05:15:37.212374+00:00,134.6
+ON-001038,2026-02-03,SKU-0013,Fitness,Corda de Pular Profissional,2,49.91,loja_online,site,2026-10-11T05:15:37.212374+00:00,99.82
+ON-001039,2026-02-08,SKU-0014,Vestuário,Meião de Compressão,3,38.52,loja_online,site,2026-10-11T05:15:37.212374+00:00,115.56
+ON-001040,2026-02-27,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,77.71,loja_online,app,2026-10-11T05:15:37.212374+00:00,233.13
+ON-001041,2026-02-15,SKU-0014,Vestuário,Meião de Compressão,2,38.69,loja_online,app,2026-10-11T05:15:37.212374+00:00,77.38
+ON-001042,2026-02-12,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,80.17,loja_online,site,2026-10-11T05:15:37.212374+00:00,240.51
+ON-001043,2026-02-01,SKU-0010,Acessórios,Mochila Esportiva 25L,1,223.39,loja_online,app,2026-10-11T05:15:37.212374+00:00,223.39
+ON-001044,2026-02-14,SKU-0014,Vestuário,Meião de Compressão,1,38.23,loja_online,app,2026-10-11T05:15:37.212374+00:00,38.23
+ON-001045,2026-02-02,SKU-0011,Fitness,Faixa de Resistência Kit,3,69.32,loja_online,site,2026-10-11T05:15:37.212374+00:00,207.96
+ON-001046,2026-02-13,SKU-0008,Acessórios,Luva de Goleiro Grip,2,192.59,loja_online,app,2026-10-11T05:15:37.212374+00:00,385.18
+ON-001047,2026-02-17,SKU-0008,Acessórios,Luva de Goleiro Grip,3,188.12,loja_online,app,2026-10-11T05:15:37.212374+00:00,564.36
+ON-001048,2026-02-12,SKU-0002,Calçados,Tênis Trail Grip,1,397.48,loja_online,app,2026-10-11T05:15:37.212374+00:00,397.48
+ON-001049,2026-02-08,SKU-0008,Acessórios,Luva de Goleiro Grip,2,191.93,loja_online,app,2026-10-11T05:15:37.212374+00:00,383.86
+ON-001050,2026-02-13,SKU-0014,Vestuário,Meião de Compressão,3,41.85,loja_online,app,2026-10-11T05:15:37.212374+00:00,125.55
+ON-001051,2026-02-03,SKU-0007,Bolas,Bola de Vôlei Oficial,2,150.12,loja_online,site,2026-10-11T05:15:37.212374+00:00,300.24
+ON-001052,2026-02-12,SKU-0006,Bolas,Bola de Futebol Campo,2,125.0,loja_online,app,2026-10-11T05:15:37.212374+00:00,250.0
+ON-001053,2026-02-08,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,76.31,loja_online,app,2026-10-11T05:15:37.212374+00:00,76.31
+ON-001054,2026-02-01,SKU-0014,Vestuário,Meião de Compressão,1,41.75,loja_online,site,2026-10-11T05:15:37.212374+00:00,41.75
+ON-001055,2026-02-11,SKU-0014,Vestuário,Meião de Compressão,3,40.78,loja_online,site,2026-10-11T05:15:37.212374+00:00,122.34
+ON-001056,2026-02-04,SKU-0013,Fitness,Corda de Pular Profissional,2,52.37,loja_online,app,2026-10-11T05:15:37.212374+00:00,104.74
+ON-001057,2026-02-27,SKU-0008,Acessórios,Luva de Goleiro Grip,2,180.85,loja_online,app,2026-10-11T05:15:37.212374+00:00,361.7
+ON-001058,2026-02-23,SKU-0009,Acessórios,Squeeze Térmico 1L,1,87.34,loja_online,app,2026-10-11T05:15:37.212374+00:00,87.34
+ON-001059,2026-02-21,SKU-0001,Calçados,Tênis Runner Pro X,2,349.72,loja_online,app,2026-10-11T05:15:37.212374+00:00,699.44
+ON-001060,2026-02-11,SKU-0005,Vestuário,Shorts de Corrida,1,103.37,loja_online,app,2026-10-11T05:15:37.212374+00:00,103.37
+ON-001061,2026-02-26,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,78.83,loja_online,app,2026-10-11T05:15:37.212374+00:00,236.49
+ON-001062,2026-02-05,SKU-0006,Bolas,Bola de Futebol Campo,2,124.07,loja_online,site,2026-10-11T05:15:37.212374+00:00,248.14
+ON-001063,2026-02-05,SKU-0006,Bolas,Bola de Futebol Campo,1,128.42,loja_online,app,2026-10-11T05:15:37.212374+00:00,128.42
+ON-001064,2026-02-02,SKU-0013,Fitness,Corda de Pular Profissional,3,50.8,loja_online,site,2026-10-11T05:15:37.212374+00:00,152.4
+ON-001065,2026-02-10,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.89,loja_online,app,2026-10-11T05:15:37.212374+00:00,157.78
+ON-001066,2026-02-27,SKU-0009,Acessórios,Squeeze Térmico 1L,1,87.19,loja_online,app,2026-10-11T05:15:37.212374+00:00,87.19
+ON-001067,2026-02-16,SKU-0009,Acessórios,Squeeze Térmico 1L,1,85.75,loja_online,app,2026-10-11T05:15:37.212374+00:00,85.75
+ON-001068,2026-02-23,SKU-0013,Fitness,Corda de Pular Profissional,3,49.69,loja_online,site,2026-10-11T05:15:37.212374+00:00,149.07
+ON-001069,2026-02-27,SKU-0006,Bolas,Bola de Futebol Campo,1,128.51,loja_online,app,2026-10-11T05:15:37.212374+00:00,128.51
+ON-001070,2026-02-05,SKU-0010,Acessórios,Mochila Esportiva 25L,3,227.12,loja_online,app,2026-10-11T05:15:37.212374+00:00,681.36
+ON-001071,2026-02-25,SKU-0012,Fitness,Colchonete de Yoga,2,123.69,loja_online,app,2026-10-11T05:15:37.212374+00:00,247.38
+ON-001072,2026-02-23,SKU-0006,Bolas,Bola de Futebol Campo,2,130.99,loja_online,site,2026-10-11T05:15:37.212374+00:00,261.98
+ON-001073,2026-02-16,SKU-0010,Acessórios,Mochila Esportiva 25L,2,230.17,loja_online,site,2026-10-11T05:15:37.212374+00:00,460.34
+ON-001074,2026-02-15,SKU-0012,Fitness,Colchonete de Yoga,3,119.67,loja_online,app,2026-10-11T05:15:37.212374+00:00,359.01
+ON-001075,2026-02-20,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,80.48,loja_online,site,2026-10-11T05:15:37.212374+00:00,80.48
+ON-001076,2026-02-01,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,78.41,loja_online,site,2026-10-11T05:15:37.212374+00:00,156.82
+ON-001077,2026-02-03,SKU-0007,Bolas,Bola de Vôlei Oficial,2,149.93,loja_online,app,2026-10-11T05:15:37.212374+00:00,299.86
+ON-001078,2026-02-01,SKU-0014,Vestuário,Meião de Compressão,3,38.46,loja_online,site,2026-10-11T05:15:37.212374+00:00,115.38
+ON-001079,2026-02-09,SKU-0009,Acessórios,Squeeze Térmico 1L,3,89.71,loja_online,app,2026-10-11T05:15:37.212374+00:00,269.13
+ON-001080,2026-02-07,SKU-0006,Bolas,Bola de Futebol Campo,2,135.25,loja_online,app,2026-10-11T05:15:37.212374+00:00,270.5
+ON-001081,2026-02-27,SKU-0009,Acessórios,Squeeze Térmico 1L,3,92.35,loja_online,app,2026-10-11T05:15:37.212374+00:00,277.05
+ON-001082,2026-02-05,SKU-0010,Acessórios,Mochila Esportiva 25L,1,229.96,loja_online,app,2026-10-11T05:15:37.212374+00:00,229.96
+ON-001083,2026-02-18,SKU-0009,Acessórios,Squeeze Térmico 1L,1,93.87,loja_online,app,2026-10-11T05:15:37.212374+00:00,93.87
+ON-001084,2026-02-24,SKU-0013,Fitness,Corda de Pular Profissional,3,48.44,loja_online,app,2026-10-11T05:15:37.212374+00:00,145.32
+ON-001085,2026-02-20,SKU-0006,Bolas,Bola de Futebol Campo,2,130.69,loja_online,app,2026-10-11T05:15:37.212374+00:00,261.38
+ON-001086,2026-02-17,SKU-0005,Vestuário,Shorts de Corrida,3,101.66,loja_online,app,2026-10-11T05:15:37.212374+00:00,304.98
+ON-001087,2026-02-14,SKU-0015,Acessórios,Boné Esportivo UV,2,62.62,loja_online,site,2026-10-11T05:15:37.212374+00:00,125.24
+ON-001088,2026-02-04,SKU-0005,Vestuário,Shorts de Corrida,2,104.45,loja_online,site,2026-10-11T05:15:37.212374+00:00,208.9
+ON-001089,2026-02-25,SKU-0006,Bolas,Bola de Futebol Campo,3,126.74,loja_online,app,2026-10-11T05:15:37.212374+00:00,380.22
+ON-001090,2026-02-10,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,78.07,loja_online,app,2026-10-11T05:15:37.212374+00:00,234.21
+ON-001091,2026-02-08,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,81.82,loja_online,site,2026-10-11T05:15:37.212374+00:00,245.46
+ON-001092,2026-02-10,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,3,83.14,loja_online,site,2026-10-11T05:15:37.212374+00:00,249.42
+ON-001093,2026-02-04,SKU-0011,Fitness,Faixa de Resistência Kit,1,67.11,loja_online,app,2026-10-11T05:15:37.212374+00:00,67.11
+ON-001094,2026-02-02,SKU-0012,Fitness,Colchonete de Yoga,1,122.07,loja_online,site,2026-10-11T05:15:37.212374+00:00,122.07
+ON-001095,2026-02-08,SKU-0001,Calçados,Tênis Runner Pro X,2,355.25,loja_online,app,2026-10-11T05:15:37.212374+00:00,710.5
+ON-001096,2026-02-14,SKU-0008,Acessórios,Luva de Goleiro Grip,2,186.5,loja_online,site,2026-10-11T05:15:37.212374+00:00,373.0
+ON-001097,2026-02-21,SKU-0015,Acessórios,Boné Esportivo UV,3,60.34,loja_online,site,2026-10-11T05:15:37.212374+00:00,181.02
+ON-001098,2026-02-26,SKU-0015,Acessórios,Boné Esportivo UV,2,62.19,loja_online,site,2026-10-11T05:15:37.212374+00:00,124.38
+ON-001099,2026-02-20,SKU-0015,Acessórios,Boné Esportivo UV,2,61.62,loja_online,site,2026-10-11T05:15:37.212374+00:00,123.24
+ON-001100,2026-02-15,SKU-0015,Acessórios,Boné Esportivo UV,1,56.96,loja_online,site,2026-10-11T05:15:37.212374+00:00,56.96
+ON-001101,2026-02-03,SKU-0015,Acessórios,Boné Esportivo UV,2,59.63,loja_online,app,2026-10-11T05:15:37.212374+00:00,119.26
+ON-001102,2026-02-04,SKU-0015,Acessórios,Boné Esportivo UV,3,59.71,loja_online,site,2026-10-11T05:15:37.212374+00:00,179.13
+ON-001103,2026-02-27,SKU-0013,Fitness,Corda de Pular Profissional,2,48.22,loja_online,app,2026-10-11T05:15:37.212374+00:00,96.44
+ON-001104,2026-02-16,SKU-0011,Fitness,Faixa de Resistência Kit,3,67.71,loja_online,app,2026-10-11T05:15:37.212374+00:00,203.13
+ON-001105,2026-02-20,SKU-0013,Fitness,Corda de Pular Profissional,3,50.77,loja_online,site,2026-10-11T05:15:37.212374+00:00,152.31
+ON-001106,2026-02-18,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,80.02,loja_online,site,2026-10-11T05:15:37.212374+00:00,160.04
+ON-001107,2026-02-01,SKU-0007,Bolas,Bola de Vôlei Oficial,1,157.12,loja_online,app,2026-10-11T05:15:37.212374+00:00,157.12
+ON-001108,2026-02-21,SKU-0006,Bolas,Bola de Futebol Campo,1,126.79,loja_online,site,2026-10-11T05:15:37.212374+00:00,126.79
+ON-001109,2026-02-17,SKU-0008,Acessórios,Luva de Goleiro Grip,2,186.14,loja_online,site,2026-10-11T05:15:37.212374+00:00,372.28
+ON-001110,2026-02-19,SKU-0005,Vestuário,Shorts de Corrida,3,97.27,loja_online,site,2026-10-11T05:15:37.212374+00:00,291.81
+ON-001111,2026-02-08,SKU-0008,Acessórios,Luva de Goleiro Grip,1,188.1,loja_online,app,2026-10-11T05:15:37.212374+00:00,188.1
+ON-001112,2026-02-23,SKU-0012,Fitness,Colchonete de Yoga,3,124.89,loja_online,app,2026-10-11T05:15:37.212374+00:00,374.67
+ON-001113,2026-02-05,SKU-0006,Bolas,Bola de Futebol Campo,1,135.84,loja_online,app,2026-10-11T05:15:37.212374+00:00,135.84
+ON-001114,2026-02-10,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,83.81,loja_online,app,2026-10-11T05:15:37.212374+00:00,251.43
+ON-001115,2026-02-14,SKU-0007,Bolas,Bola de Vôlei Oficial,2,153.76,loja_online,site,2026-10-11T05:15:37.212374+00:00,307.52
+ON-001116,2026-02-01,SKU-0013,Fitness,Corda de Pular Profissional,3,51.17,loja_online,site,2026-10-11T05:15:37.212374+00:00,153.51
+ON-001117,2026-02-20,SKU-0009,Acessórios,Squeeze Térmico 1L,3,91.73,loja_online,site,2026-10-11T05:15:37.212374+00:00,275.19
+ON-001118,2026-02-12,SKU-0015,Acessórios,Boné Esportivo UV,1,61.87,loja_online,site,2026-10-11T05:15:37.212374+00:00,61.87
+ON-001119,2026-02-08,SKU-0010,Acessórios,Mochila Esportiva 25L,1,212.52,loja_online,app,2026-10-11T05:15:37.212374+00:00,212.52
+ON-001120,2026-02-19,SKU-0002,Calçados,Tênis Trail Grip,3,403.23,loja_online,site,2026-10-11T05:15:37.212374+00:00,1209.69
+ON-001121,2026-02-14,SKU-0015,Acessórios,Boné Esportivo UV,2,61.75,loja_online,app,2026-10-11T05:15:37.212374+00:00,123.5
+ON-001122,2026-02-06,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,79.55,loja_online,site,2026-10-11T05:15:37.212374+00:00,159.1
+ON-001123,2026-02-22,SKU-0009,Acessórios,Squeeze Térmico 1L,3,92.66,loja_online,site,2026-10-11T05:15:37.212374+00:00,277.98
+ON-001124,2026-02-22,SKU-0007,Bolas,Bola de Vôlei Oficial,1,153.58,loja_online,site,2026-10-11T05:15:37.212374+00:00,153.58
+ON-001125,2026-02-03,SKU-0001,Calçados,Tênis Runner Pro X,2,356.91,loja_online,site,2026-10-11T05:15:37.212374+00:00,713.82
+ON-001126,2026-02-17,SKU-0015,Acessórios,Boné Esportivo UV,2,57.1,loja_online,app,2026-10-11T05:15:37.212374+00:00,114.2
+ON-001127,2026-02-12,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,3,83.72,loja_online,app,2026-10-11T05:15:37.212374+00:00,251.16
+ON-001128,2026-02-03,SKU-0006,Bolas,Bola de Futebol Campo,2,134.7,loja_online,app,2026-10-11T05:15:37.212374+00:00,269.4
+ON-001129,2026-02-17,SKU-0007,Bolas,Bola de Vôlei Oficial,3,156.86,loja_online,site,2026-10-11T05:15:37.212374+00:00,470.58
+ON-001130,2026-02-18,SKU-0011,Fitness,Faixa de Resistência Kit,1,67.65,loja_online,app,2026-10-11T05:15:37.212374+00:00,67.65
+ON-001131,2026-02-17,SKU-0009,Acessórios,Squeeze Térmico 1L,3,94.2,loja_online,site,2026-10-11T05:15:37.212374+00:00,282.6
+ON-001132,2026-02-26,SKU-0013,Fitness,Corda de Pular Profissional,2,49.72,loja_online,app,2026-10-11T05:15:37.212374+00:00,99.44
+ON-001133,2026-02-17,SKU-0009,Acessórios,Squeeze Térmico 1L,1,87.63,loja_online,app,2026-10-11T05:15:37.212374+00:00,87.63
+ON-001134,2026-02-18,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,83.39,loja_online,site,2026-10-11T05:15:37.212374+00:00,83.39
+ON-001135,2026-02-01,SKU-0001,Calçados,Tênis Runner Pro X,3,359.21,loja_online,site,2026-10-11T05:15:37.212374+00:00,1077.63
+ON-001136,2026-02-13,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,76.71,loja_online,site,2026-10-11T05:15:37.212374+00:00,76.71
+ON-001137,2026-02-28,SKU-0008,Acessórios,Luva de Goleiro Grip,1,194.47,loja_online,app,2026-10-11T05:15:37.212374+00:00,194.47
+ON-001138,2026-02-16,SKU-0008,Acessórios,Luva de Goleiro Grip,3,184.53,loja_online,site,2026-10-11T05:15:37.212374+00:00,553.59
+ON-001139,2026-02-02,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,77.78,loja_online,app,2026-10-11T05:15:37.212374+00:00,155.56
+MKT-000001,2026-01-07,SKU-0008,Acessórios,Luva de Goleiro Grip,2,191.32,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,382.64
+MKT-000001,2026-01-07,SKU-0014,Vestuário,Meião de Compressão,1,38.85,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,38.85
+MKT-000002,2026-01-01,SKU-0001,Calçados,Tênis Runner Pro X,2,359.55,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,719.1
+MKT-000002,2026-01-01,SKU-0005,Vestuário,Shorts de Corrida,2,103.23,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,206.46
+MKT-000002,2026-01-01,SKU-0007,Bolas,Bola de Vôlei Oficial,1,156.06,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,156.06
+MKT-000003,2026-01-20,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,80.87,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,80.87
+MKT-000003,2026-01-20,SKU-0011,Fitness,Faixa de Resistência Kit,1,70.8,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,70.8
+MKT-000004,2026-01-10,SKU-0001,Calçados,Tênis Runner Pro X,2,358.03,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,716.06
+MKT-000004,2026-01-10,SKU-0010,Acessórios,Mochila Esportiva 25L,1,228.91,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,228.91
+MKT-000005,2026-01-24,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,82.19,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,82.19
+MKT-000005,2026-01-24,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,80.15,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,160.3
+MKT-000006,2026-01-27,SKU-0005,Vestuário,Shorts de Corrida,2,104.57,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,209.14
+MKT-000007,2026-01-24,SKU-0002,Calçados,Tênis Trail Grip,1,410.06,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,410.06
+MKT-000007,2026-01-24,SKU-0013,Fitness,Corda de Pular Profissional,2,52.21,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,104.42
+MKT-000008,2026-01-28,SKU-0007,Bolas,Bola de Vôlei Oficial,1,149.22,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,149.22
+MKT-000008,2026-01-28,SKU-0011,Fitness,Faixa de Resistência Kit,2,66.5,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,133.0
+MKT-000008,2026-01-28,SKU-0012,Fitness,Colchonete de Yoga,2,114.99,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,229.98
+MKT-000009,2026-01-19,SKU-0011,Fitness,Faixa de Resistência Kit,1,69.7,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,69.7
+MKT-000009,2026-01-19,SKU-0014,Vestuário,Meião de Compressão,2,38.34,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,76.68
+MKT-000010,2026-01-30,SKU-0002,Calçados,Tênis Trail Grip,1,385.49,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,385.49
+MKT-000010,2026-01-30,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,83.17,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,166.34
+MKT-000010,2026-01-30,SKU-0011,Fitness,Faixa de Resistência Kit,2,70.94,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,141.88
+MKT-000011,2026-01-10,SKU-0002,Calçados,Tênis Trail Grip,1,415.39,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,415.39
+MKT-000011,2026-01-10,SKU-0015,Acessórios,Boné Esportivo UV,1,59.23,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,59.23
+MKT-000012,2026-01-22,SKU-0007,Bolas,Bola de Vôlei Oficial,2,156.48,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,312.96
+MKT-000012,2026-01-22,SKU-0009,Acessórios,Squeeze Térmico 1L,1,92.9,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,92.9
+MKT-000012,2026-01-22,SKU-0012,Fitness,Colchonete de Yoga,1,124.52,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,124.52
+MKT-000013,2026-01-02,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,76.7,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,153.4
+MKT-000013,2026-01-02,SKU-0006,Bolas,Bola de Futebol Campo,2,135.75,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,271.5
+MKT-000013,2026-01-02,SKU-0008,Acessórios,Luva de Goleiro Grip,2,190.74,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,381.48
+MKT-000014,2026-01-02,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,76.64,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,153.28
+MKT-000014,2026-01-02,SKU-0005,Vestuário,Shorts de Corrida,1,104.39,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,104.39
+MKT-000015,2026-01-21,SKU-0001,Calçados,Tênis Runner Pro X,1,359.94,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,359.94
+MKT-000015,2026-01-21,SKU-0010,Acessórios,Mochila Esportiva 25L,2,214.26,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,428.52
+MKT-000015,2026-01-21,SKU-0014,Vestuário,Meião de Compressão,1,38.18,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,38.18
+MKT-000016,2026-01-19,SKU-0014,Vestuário,Meião de Compressão,1,39.22,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,39.22
+MKT-000017,2026-01-26,SKU-0001,Calçados,Tênis Runner Pro X,1,351.31,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,351.31
+MKT-000017,2026-01-26,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,76.96,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,76.96
+MKT-000017,2026-01-26,SKU-0005,Vestuário,Shorts de Corrida,1,96.0,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,96.0
+MKT-000018,2026-01-26,SKU-0010,Acessórios,Mochila Esportiva 25L,2,209.25,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,418.5
+MKT-000019,2026-01-02,SKU-0012,Fitness,Colchonete de Yoga,2,120.21,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,240.42
+MKT-000020,2026-01-16,SKU-0006,Bolas,Bola de Futebol Campo,1,135.69,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,135.69
+MKT-000020,2026-01-16,SKU-0013,Fitness,Corda de Pular Profissional,1,49.66,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,49.66
+MKT-000021,2026-01-24,SKU-0005,Vestuário,Shorts de Corrida,2,103.37,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,206.74
+MKT-000021,2026-01-24,SKU-0008,Acessórios,Luva de Goleiro Grip,2,193.43,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,386.86
+MKT-000021,2026-01-24,SKU-0009,Acessórios,Squeeze Térmico 1L,1,85.95,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,85.95
+MKT-000022,2026-01-23,SKU-0002,Calçados,Tênis Trail Grip,2,404.23,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,808.46
+MKT-000022,2026-01-23,SKU-0015,Acessórios,Boné Esportivo UV,1,57.66,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,57.66
+MKT-000023,2026-01-13,SKU-0005,Vestuário,Shorts de Corrida,1,103.42,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,103.42
+MKT-000023,2026-01-13,SKU-0008,Acessórios,Luva de Goleiro Grip,1,188.57,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,188.57
+MKT-000023,2026-01-13,SKU-0009,Acessórios,Squeeze Térmico 1L,2,86.3,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,172.6
+MKT-000024,2026-01-14,SKU-0008,Acessórios,Luva de Goleiro Grip,1,186.34,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,186.34
+MKT-000024,2026-01-14,SKU-0014,Vestuário,Meião de Compressão,2,39.56,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,79.12
+MKT-000025,2026-01-22,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,76.65,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,76.65
+MKT-000025,2026-01-22,SKU-0006,Bolas,Bola de Futebol Campo,2,124.28,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,248.56
+MKT-000026,2026-01-24,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.73,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,157.46
+MKT-000026,2026-01-24,SKU-0006,Bolas,Bola de Futebol Campo,1,131.02,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,131.02
+MKT-000026,2026-01-24,SKU-0013,Fitness,Corda de Pular Profissional,2,50.75,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,101.5
+MKT-000027,2026-01-28,SKU-0001,Calçados,Tênis Runner Pro X,2,344.71,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,689.42
+MKT-000027,2026-01-28,SKU-0005,Vestuário,Shorts de Corrida,1,96.45,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,96.45
+MKT-000027,2026-01-28,SKU-0010,Acessórios,Mochila Esportiva 25L,2,213.84,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,427.68
+MKT-000028,2026-01-12,SKU-0002,Calçados,Tênis Trail Grip,2,413.7,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,827.4
+MKT-000028,2026-01-12,SKU-0006,Bolas,Bola de Futebol Campo,2,130.86,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,261.72
+MKT-000028,2026-01-12,SKU-0013,Fitness,Corda de Pular Profissional,1,50.44,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,50.44
+MKT-000029,2026-01-01,SKU-0005,Vestuário,Shorts de Corrida,2,104.11,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,208.22
+MKT-000030,2026-01-01,SKU-0014,Vestuário,Meião de Compressão,1,40.16,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,40.16
+MKT-000031,2026-01-03,SKU-0012,Fitness,Colchonete de Yoga,1,115.01,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,115.01
+MKT-000032,2026-01-13,SKU-0006,Bolas,Bola de Futebol Campo,2,133.5,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,267.0
+MKT-000032,2026-01-13,SKU-0008,Acessórios,Luva de Goleiro Grip,1,187.43,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,187.43
+MKT-000033,2026-01-29,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,81.93,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,81.93
+MKT-000034,2026-01-22,SKU-0005,Vestuário,Shorts de Corrida,2,101.52,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,203.04
+MKT-000035,2026-01-20,SKU-0005,Vestuário,Shorts de Corrida,1,98.35,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,98.35
+MKT-000035,2026-01-20,SKU-0007,Bolas,Bola de Vôlei Oficial,1,153.72,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,153.72
+MKT-000036,2026-01-10,SKU-0008,Acessórios,Luva de Goleiro Grip,1,180.55,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,180.55
+MKT-000036,2026-01-10,SKU-0010,Acessórios,Mochila Esportiva 25L,2,230.55,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,461.1
+MKT-000036,2026-01-10,SKU-0011,Fitness,Faixa de Resistência Kit,2,66.72,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,133.44
+MKT-000037,2026-01-31,SKU-0013,Fitness,Corda de Pular Profissional,1,51.22,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,51.22
+MKT-000038,2026-01-11,SKU-0001,Calçados,Tênis Runner Pro X,2,358.54,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,717.08
+MKT-000039,2026-01-05,SKU-0009,Acessórios,Squeeze Térmico 1L,1,89.9,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,89.9
+MKT-000039,2026-01-05,SKU-0012,Fitness,Colchonete de Yoga,2,114.77,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,229.54
+MKT-000040,2026-01-14,SKU-0008,Acessórios,Luva de Goleiro Grip,1,196.78,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,196.78
+MKT-000041,2026-01-19,SKU-0011,Fitness,Faixa de Resistência Kit,2,66.55,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,133.1
+MKT-000041,2026-01-19,SKU-0012,Fitness,Colchonete de Yoga,2,117.38,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,234.76
+MKT-000042,2026-01-06,SKU-0008,Acessórios,Luva de Goleiro Grip,2,182.08,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,364.16
+MKT-000042,2026-01-06,SKU-0012,Fitness,Colchonete de Yoga,2,120.19,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,240.38
+MKT-000042,2026-01-06,SKU-0014,Vestuário,Meião de Compressão,1,38.88,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,38.88
+MKT-000043,2026-01-28,SKU-0006,Bolas,Bola de Futebol Campo,1,124.4,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,124.4
+MKT-000043,2026-01-28,SKU-0012,Fitness,Colchonete de Yoga,1,117.9,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,117.9
+MKT-000044,2026-01-17,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,81.72,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,163.44
+MKT-000044,2026-01-17,SKU-0006,Bolas,Bola de Futebol Campo,1,126.73,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,126.73
+MKT-000044,2026-01-17,SKU-0013,Fitness,Corda de Pular Profissional,1,48.58,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,48.58
+MKT-000045,2026-01-20,SKU-0013,Fitness,Corda de Pular Profissional,1,48.29,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,48.29
+MKT-000046,2026-01-15,SKU-0008,Acessórios,Luva de Goleiro Grip,1,189.31,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,189.31
+MKT-000046,2026-01-15,SKU-0010,Acessórios,Mochila Esportiva 25L,2,212.22,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,424.44
+MKT-000046,2026-01-15,SKU-0013,Fitness,Corda de Pular Profissional,2,51.72,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,103.44
+MKT-000047,2026-01-26,SKU-0001,Calçados,Tênis Runner Pro X,2,348.56,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,697.12
+MKT-000047,2026-01-26,SKU-0010,Acessórios,Mochila Esportiva 25L,2,220.06,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,440.12
+MKT-000048,2026-01-02,SKU-0005,Vestuário,Shorts de Corrida,1,101.05,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,101.05
+MKT-000048,2026-01-02,SKU-0014,Vestuário,Meião de Compressão,1,40.48,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,40.48
+MKT-000049,2026-01-15,SKU-0009,Acessórios,Squeeze Térmico 1L,1,89.45,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,89.45
+MKT-000049,2026-01-15,SKU-0012,Fitness,Colchonete de Yoga,2,119.92,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,239.84
+MKT-000049,2026-01-15,SKU-0013,Fitness,Corda de Pular Profissional,1,49.01,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,49.01
+MKT-000050,2026-01-15,SKU-0013,Fitness,Corda de Pular Profissional,2,52.31,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,104.62
+MKT-000051,2026-01-17,SKU-0001,Calçados,Tênis Runner Pro X,1,345.14,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,345.14
+MKT-000051,2026-01-17,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,83.82,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,167.64
+MKT-000051,2026-01-17,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,79.0,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,158.0
+MKT-000052,2026-01-22,SKU-0001,Calçados,Tênis Runner Pro X,2,334.71,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,669.42
+MKT-000052,2026-01-22,SKU-0011,Fitness,Faixa de Resistência Kit,2,68.39,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,136.78
+MKT-000052,2026-01-22,SKU-0013,Fitness,Corda de Pular Profissional,1,50.19,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,50.19
+MKT-000053,2026-01-11,SKU-0010,Acessórios,Mochila Esportiva 25L,1,229.06,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,229.06
+MKT-000054,2026-01-31,SKU-0007,Bolas,Bola de Vôlei Oficial,2,152.05,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,304.1
+MKT-000054,2026-01-31,SKU-0011,Fitness,Faixa de Resistência Kit,1,68.57,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,68.57
+MKT-000054,2026-01-31,SKU-0012,Fitness,Colchonete de Yoga,1,121.04,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,121.04
+MKT-000055,2026-01-27,SKU-0011,Fitness,Faixa de Resistência Kit,1,70.92,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,70.92
+MKT-000056,2026-01-17,SKU-0001,Calçados,Tênis Runner Pro X,2,338.71,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,677.42
+MKT-000056,2026-01-17,SKU-0006,Bolas,Bola de Futebol Campo,1,127.84,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,127.84
+MKT-000057,2026-01-07,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,76.52,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,76.52
+MKT-000058,2026-01-17,SKU-0009,Acessórios,Squeeze Térmico 1L,1,86.86,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,86.86
+MKT-000058,2026-01-17,SKU-0012,Fitness,Colchonete de Yoga,1,121.07,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,121.07
+MKT-000058,2026-01-17,SKU-0014,Vestuário,Meião de Compressão,1,40.55,marketplace,ShopFast,2026-10-11T05:15:43.150802+00:00,40.55
+MKT-000059,2026-01-24,SKU-0001,Calçados,Tênis Runner Pro X,2,356.07,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,712.14
+MKT-000059,2026-01-24,SKU-0007,Bolas,Bola de Vôlei Oficial,1,156.94,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,156.94
+MKT-000060,2026-01-25,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,78.84,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,78.84
+MKT-000060,2026-01-25,SKU-0008,Acessórios,Luva de Goleiro Grip,2,197.57,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,395.14
+MKT-000060,2026-01-25,SKU-0013,Fitness,Corda de Pular Profissional,1,48.95,marketplace,MegaVarejo,2026-10-11T05:15:43.150802+00:00,48.95
+MKT-001000,2026-02-19,SKU-0001,Calçados,Tênis Runner Pro X,1,352.61,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,352.61
+MKT-001000,2026-02-19,SKU-0007,Bolas,Bola de Vôlei Oficial,1,145.49,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,145.49
+MKT-001001,2026-02-12,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,78.0,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,78.0
+MKT-001001,2026-02-12,SKU-0008,Acessórios,Luva de Goleiro Grip,2,190.43,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,380.86
+MKT-001002,2026-02-20,SKU-0007,Bolas,Bola de Vôlei Oficial,2,151.66,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,303.32
+MKT-001002,2026-02-20,SKU-0010,Acessórios,Mochila Esportiva 25L,1,216.56,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,216.56
+MKT-001003,2026-02-20,SKU-0002,Calçados,Tênis Trail Grip,2,384.62,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,769.24
+MKT-001003,2026-02-20,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,81.45,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,162.9
+MKT-001003,2026-02-20,SKU-0011,Fitness,Faixa de Resistência Kit,2,67.22,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,134.44
+MKT-001004,2026-02-14,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,77.39,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,154.78
+MKT-001004,2026-02-14,SKU-0007,Bolas,Bola de Vôlei Oficial,2,146.73,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,293.46
+MKT-001004,2026-02-14,SKU-0010,Acessórios,Mochila Esportiva 25L,1,221.11,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,221.11
+MKT-001005,2026-02-11,SKU-0001,Calçados,Tênis Runner Pro X,2,337.18,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,674.36
+MKT-001005,2026-02-11,SKU-0010,Acessórios,Mochila Esportiva 25L,2,229.84,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,459.68
+MKT-001006,2026-02-18,SKU-0007,Bolas,Bola de Vôlei Oficial,1,150.88,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,150.88
+MKT-001006,2026-02-18,SKU-0008,Acessórios,Luva de Goleiro Grip,2,189.69,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,379.38
+MKT-001006,2026-02-18,SKU-0011,Fitness,Faixa de Resistência Kit,2,69.31,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,138.62
+MKT-001007,2026-02-10,SKU-0005,Vestuário,Shorts de Corrida,1,100.28,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,100.28
+MKT-001008,2026-02-25,SKU-0010,Acessórios,Mochila Esportiva 25L,2,220.99,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,441.98
+MKT-001008,2026-02-25,SKU-0012,Fitness,Colchonete de Yoga,1,120.77,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,120.77
+MKT-001009,2026-02-25,SKU-0006,Bolas,Bola de Futebol Campo,2,130.5,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,261.0
+MKT-001009,2026-02-25,SKU-0009,Acessórios,Squeeze Térmico 1L,2,86.33,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,172.66
+MKT-001009,2026-02-25,SKU-0014,Vestuário,Meião de Compressão,1,40.94,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,40.94
+MKT-001010,2026-02-10,SKU-0008,Acessórios,Luva de Goleiro Grip,2,187.02,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,374.04
+MKT-001011,2026-02-15,SKU-0013,Fitness,Corda de Pular Profissional,1,48.45,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,48.45
+MKT-001012,2026-02-28,SKU-0007,Bolas,Bola de Vôlei Oficial,1,150.95,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,150.95
+MKT-001012,2026-02-28,SKU-0010,Acessórios,Mochila Esportiva 25L,1,222.45,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,222.45
+MKT-001012,2026-02-28,SKU-0011,Fitness,Faixa de Resistência Kit,1,72.09,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,72.09
+MKT-001013,2026-02-20,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.22,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,156.44
+MKT-001013,2026-02-20,SKU-0006,Bolas,Bola de Futebol Campo,2,135.78,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,271.56
+MKT-001013,2026-02-20,SKU-0012,Fitness,Colchonete de Yoga,1,115.53,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,115.53
+MKT-001014,2026-02-02,SKU-0011,Fitness,Faixa de Resistência Kit,1,68.15,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,68.15
+MKT-001014,2026-02-02,SKU-0014,Vestuário,Meião de Compressão,1,40.7,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,40.7
+MKT-001015,2026-02-27,SKU-0013,Fitness,Corda de Pular Profissional,2,49.85,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,99.7
+MKT-001016,2026-02-21,SKU-0007,Bolas,Bola de Vôlei Oficial,1,151.9,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,151.9
+MKT-001016,2026-02-21,SKU-0008,Acessórios,Luva de Goleiro Grip,1,188.06,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,188.06
+MKT-001017,2026-02-23,SKU-0008,Acessórios,Luva de Goleiro Grip,2,191.46,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,382.92
+MKT-001017,2026-02-23,SKU-0015,Acessórios,Boné Esportivo UV,1,61.28,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,61.28
+MKT-001018,2026-02-21,SKU-0002,Calçados,Tênis Trail Grip,2,390.64,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,781.28
+MKT-001018,2026-02-21,SKU-0006,Bolas,Bola de Futebol Campo,2,134.12,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,268.24
+MKT-001018,2026-02-21,SKU-0012,Fitness,Colchonete de Yoga,2,116.52,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,233.04
+MKT-001019,2026-02-11,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,76.27,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,76.27
+MKT-001019,2026-02-11,SKU-0010,Acessórios,Mochila Esportiva 25L,2,226.24,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,452.48
+MKT-001019,2026-02-11,SKU-0015,Acessórios,Boné Esportivo UV,2,57.0,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,114.0
+MKT-001020,2026-02-15,SKU-0001,Calçados,Tênis Runner Pro X,1,367.24,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,367.24
+MKT-001020,2026-02-15,SKU-0007,Bolas,Bola de Vôlei Oficial,1,155.63,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,155.63
+MKT-001021,2026-02-06,SKU-0002,Calçados,Tênis Trail Grip,2,389.92,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,779.84
+MKT-001021,2026-02-06,SKU-0011,Fitness,Faixa de Resistência Kit,2,71.05,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,142.1
+MKT-001022,2026-02-02,SKU-0005,Vestuário,Shorts de Corrida,1,101.93,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,101.93
+MKT-001022,2026-02-02,SKU-0011,Fitness,Faixa de Resistência Kit,1,69.41,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,69.41
+MKT-001023,2026-02-07,SKU-0002,Calçados,Tênis Trail Grip,1,400.68,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,400.68
+MKT-001023,2026-02-07,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,75.98,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,151.96
+MKT-001024,2026-02-27,SKU-0014,Vestuário,Meião de Compressão,2,40.67,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,81.34
+MKT-001025,2026-02-03,SKU-0007,Bolas,Bola de Vôlei Oficial,1,153.36,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,153.36
+MKT-001026,2026-02-04,SKU-0005,Vestuário,Shorts de Corrida,1,101.31,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,101.31
+MKT-001026,2026-02-04,SKU-0006,Bolas,Bola de Futebol Campo,1,128.38,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,128.38
+MKT-001027,2026-02-03,SKU-0001,Calçados,Tênis Runner Pro X,1,354.38,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,354.38
+MKT-001027,2026-02-03,SKU-0010,Acessórios,Mochila Esportiva 25L,1,218.58,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,218.58
+MKT-001027,2026-02-03,SKU-0015,Acessórios,Boné Esportivo UV,1,62.42,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,62.42
+MKT-001028,2026-02-28,SKU-0002,Calçados,Tênis Trail Grip,1,385.5,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,385.5
+MKT-001029,2026-02-19,SKU-0006,Bolas,Bola de Futebol Campo,1,127.0,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,127.0
+MKT-001029,2026-02-19,SKU-0007,Bolas,Bola de Vôlei Oficial,2,154.26,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,308.52
+MKT-001029,2026-02-19,SKU-0015,Acessórios,Boné Esportivo UV,1,58.39,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,58.39
+MKT-001030,2026-02-25,SKU-0001,Calçados,Tênis Runner Pro X,2,339.59,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,679.18
+MKT-001030,2026-02-25,SKU-0011,Fitness,Faixa de Resistência Kit,2,70.92,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,141.84
+MKT-001030,2026-02-25,SKU-0014,Vestuário,Meião de Compressão,1,40.89,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,40.89
+MKT-001031,2026-02-16,SKU-0002,Calçados,Tênis Trail Grip,2,405.42,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,810.84
+MKT-001031,2026-02-16,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,80.13,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,80.13
+MKT-001032,2026-02-12,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,78.82,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,157.64
+MKT-001032,2026-02-12,SKU-0007,Bolas,Bola de Vôlei Oficial,1,153.84,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,153.84
+MKT-001033,2026-02-01,SKU-0001,Calçados,Tênis Runner Pro X,1,365.6,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,365.6
+MKT-001033,2026-02-01,SKU-0002,Calçados,Tênis Trail Grip,1,381.5,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,381.5
+MKT-001033,2026-02-01,SKU-0005,Vestuário,Shorts de Corrida,2,99.97,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,199.94
+MKT-001034,2026-02-14,SKU-0002,Calçados,Tênis Trail Grip,2,383.07,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,766.14
+MKT-001034,2026-02-14,SKU-0007,Bolas,Bola de Vôlei Oficial,1,146.56,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,146.56
+MKT-001034,2026-02-14,SKU-0011,Fitness,Faixa de Resistência Kit,1,73.22,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,73.22
+MKT-001035,2026-02-18,SKU-0007,Bolas,Bola de Vôlei Oficial,1,147.05,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,147.05
+MKT-001035,2026-02-18,SKU-0010,Acessórios,Mochila Esportiva 25L,2,224.96,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,449.92
+MKT-001036,2026-02-02,SKU-0002,Calçados,Tênis Trail Grip,2,384.54,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,769.08
+MKT-001037,2026-02-10,SKU-0011,Fitness,Faixa de Resistência Kit,1,71.31,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,71.31
+MKT-001037,2026-02-10,SKU-0012,Fitness,Colchonete de Yoga,1,115.34,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,115.34
+MKT-001037,2026-02-10,SKU-0015,Acessórios,Boné Esportivo UV,1,59.88,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,59.88
+MKT-001038,2026-02-17,SKU-0012,Fitness,Colchonete de Yoga,2,122.69,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,245.38
+MKT-001038,2026-02-17,SKU-0013,Fitness,Corda de Pular Profissional,2,48.24,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,96.48
+MKT-001038,2026-02-17,SKU-0014,Vestuário,Meião de Compressão,1,40.9,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,40.9
+MKT-001039,2026-02-25,SKU-0006,Bolas,Bola de Futebol Campo,2,126.94,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,253.88
+MKT-001040,2026-02-09,SKU-0002,Calçados,Tênis Trail Grip,1,394.61,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,394.61
+MKT-001040,2026-02-09,SKU-0010,Acessórios,Mochila Esportiva 25L,2,218.91,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,437.82
+MKT-001040,2026-02-09,SKU-0011,Fitness,Faixa de Resistência Kit,2,66.79,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,133.58
+MKT-001041,2026-02-25,SKU-0015,Acessórios,Boné Esportivo UV,1,58.27,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,58.27
+MKT-001042,2026-02-02,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,79.67,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,79.67
+MKT-001043,2026-02-05,SKU-0015,Acessórios,Boné Esportivo UV,1,60.22,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,60.22
+MKT-001044,2026-02-08,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,78.07,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,156.14
+MKT-001044,2026-02-08,SKU-0007,Bolas,Bola de Vôlei Oficial,1,150.97,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,150.97
+MKT-001045,2026-02-17,SKU-0001,Calçados,Tênis Runner Pro X,1,365.79,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,365.79
+MKT-001045,2026-02-17,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,1,82.91,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,82.91
+MKT-001045,2026-02-17,SKU-0015,Acessórios,Boné Esportivo UV,1,61.72,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,61.72
+MKT-001046,2026-02-25,SKU-0002,Calçados,Tênis Trail Grip,1,391.57,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,391.57
+MKT-001046,2026-02-25,SKU-0006,Bolas,Bola de Futebol Campo,2,123.51,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,247.02
+MKT-001047,2026-02-24,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,2,83.88,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,167.76
+MKT-001047,2026-02-24,SKU-0006,Bolas,Bola de Futebol Campo,1,125.36,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,125.36
+MKT-001047,2026-02-24,SKU-0008,Acessórios,Luva de Goleiro Grip,1,194.31,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,194.31
+MKT-001048,2026-02-01,SKU-0009,Acessórios,Squeeze Térmico 1L,2,91.12,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,182.24
+MKT-001049,2026-02-11,SKU-0013,Fitness,Corda de Pular Profissional,2,51.64,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,103.28
+MKT-001050,2026-02-04,SKU-0009,Acessórios,Squeeze Térmico 1L,1,89.18,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,89.18
+MKT-001051,2026-02-05,SKU-0001,Calçados,Tênis Runner Pro X,2,348.45,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,696.9
+MKT-001051,2026-02-05,SKU-0002,Calçados,Tênis Trail Grip,2,407.93,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,815.86
+MKT-001051,2026-02-05,SKU-0005,Vestuário,Shorts de Corrida,1,103.87,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,103.87
+MKT-001052,2026-02-19,SKU-0009,Acessórios,Squeeze Térmico 1L,1,91.13,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,91.13
+MKT-001053,2026-02-03,SKU-0001,Calçados,Tênis Runner Pro X,2,362.18,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,724.36
+MKT-001053,2026-02-03,SKU-0007,Bolas,Bola de Vôlei Oficial,2,152.91,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,305.82
+MKT-001053,2026-02-03,SKU-0010,Acessórios,Mochila Esportiva 25L,1,214.11,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,214.11
+MKT-001054,2026-02-11,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,82.14,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,82.14
+MKT-001054,2026-02-11,SKU-0005,Vestuário,Shorts de Corrida,1,104.33,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,104.33
+MKT-001055,2026-02-05,SKU-0003,Vestuário,Camiseta Dry-Fit Masculina,2,79.63,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,159.26
+MKT-001056,2026-02-04,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,77.16,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,77.16
+MKT-001056,2026-02-04,SKU-0006,Bolas,Bola de Futebol Campo,2,127.41,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,254.82
+MKT-001056,2026-02-04,SKU-0013,Fitness,Corda de Pular Profissional,2,51.66,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,103.32
+MKT-001057,2026-02-27,SKU-0001,Calçados,Tênis Runner Pro X,1,366.29,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,366.29
+MKT-001057,2026-02-27,SKU-0010,Acessórios,Mochila Esportiva 25L,2,212.17,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,424.34
+MKT-001057,2026-02-27,SKU-0012,Fitness,Colchonete de Yoga,1,123.93,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,123.93
+MKT-001058,2026-02-17,SKU-0011,Fitness,Faixa de Resistência Kit,2,68.22,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,136.44
+MKT-001059,2026-02-01,SKU-0008,Acessórios,Luva de Goleiro Grip,1,195.67,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,195.67
+MKT-001059,2026-02-01,SKU-0014,Vestuário,Meião de Compressão,1,38.28,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,38.28
+MKT-001060,2026-02-04,SKU-0001,Calçados,Tênis Runner Pro X,1,336.98,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,336.98
+MKT-001061,2026-02-12,SKU-0002,Calçados,Tênis Trail Grip,1,387.81,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,387.81
+MKT-001061,2026-02-12,SKU-0011,Fitness,Faixa de Resistência Kit,2,72.82,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,145.64
+MKT-001061,2026-02-12,SKU-0015,Acessórios,Boné Esportivo UV,1,57.04,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,57.04
+MKT-001062,2026-02-26,SKU-0002,Calçados,Tênis Trail Grip,2,384.8,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,769.6
+MKT-001063,2026-02-02,SKU-0015,Acessórios,Boné Esportivo UV,2,61.83,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,123.66
+MKT-001064,2026-02-16,SKU-0007,Bolas,Bola de Vôlei Oficial,2,145.0,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,290.0
+MKT-001065,2026-02-06,SKU-0005,Vestuário,Shorts de Corrida,1,95.25,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,95.25
+MKT-001065,2026-02-06,SKU-0008,Acessórios,Luva de Goleiro Grip,1,192.7,marketplace,MegaVarejo,2026-10-11T05:15:45.161197+00:00,192.7
+MKT-001066,2026-02-14,SKU-0001,Calçados,Tênis Runner Pro X,2,339.38,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,678.76
+MKT-001066,2026-02-14,SKU-0002,Calçados,Tênis Trail Grip,1,405.13,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,405.13
+MKT-001066,2026-02-14,SKU-0008,Acessórios,Luva de Goleiro Grip,2,187.68,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,375.36
+MKT-001067,2026-02-13,SKU-0006,Bolas,Bola de Futebol Campo,2,127.87,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,255.74
+MKT-001067,2026-02-13,SKU-0008,Acessórios,Luva de Goleiro Grip,2,187.78,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,375.56
+MKT-001067,2026-02-13,SKU-0009,Acessórios,Squeeze Térmico 1L,1,85.64,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,85.64
+MKT-001068,2026-02-01,SKU-0001,Calçados,Tênis Runner Pro X,2,350.93,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,701.86
+MKT-001068,2026-02-01,SKU-0013,Fitness,Corda de Pular Profissional,1,52.27,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,52.27
+MKT-001069,2026-02-08,SKU-0004,Vestuário,Camiseta Dry-Fit Feminina,1,82.01,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,82.01
+MKT-001069,2026-02-08,SKU-0005,Vestuário,Shorts de Corrida,1,100.66,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,100.66
+MKT-001069,2026-02-08,SKU-0009,Acessórios,Squeeze Térmico 1L,2,88.59,marketplace,ShopFast,2026-10-11T05:15:45.161197+00:00,177.18

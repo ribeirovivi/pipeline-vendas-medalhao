@@ -1,0 +1,16 @@
+sku,nome_produto,categoria,marca,codigo_legado_loja_fisica
+SKU-0001,Tênis Runner Pro X,Calçados,Vertex,COD-101
+SKU-0002,Tênis Trail Grip,Calçados,Vertex,COD-102
+SKU-0003,Camiseta Dry-Fit Masculina,Vestuário,Aerofit,COD-201
+SKU-0004,Camiseta Dry-Fit Feminina,Vestuário,Aerofit,COD-202
+SKU-0005,Shorts de Corrida,Vestuário,Aerofit,COD-203
+SKU-0006,Bola de Futebol Campo,Bolas,Chuteira10,COD-301
+SKU-0007,Bola de Vôlei Oficial,Bolas,Chuteira10,COD-302
+SKU-0008,Luva de Goleiro Grip,Acessórios,Chuteira10,COD-303
+SKU-0009,Squeeze Térmico 1L,Acessórios,Hydra,COD-401
+SKU-0010,Mochila Esportiva 25L,Acessórios,Hydra,COD-402
+SKU-0011,Faixa de Resistência Kit,Fitness,Corebase,COD-501
+SKU-0012,Colchonete de Yoga,Fitness,Corebase,COD-502
+SKU-0013,Corda de Pular Profissional,Fitness,Corebase,COD-503
+SKU-0014,Meião de Compressão,Vestuário,Aerofit,COD-204
+SKU-0015,Boné Esportivo UV,Acessórios,Hydra,COD-403

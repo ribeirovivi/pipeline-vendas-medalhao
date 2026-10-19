@@ -1,0 +1,71 @@
+{"orderId": "MKT-001000", "timestamp": 1771459200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0007", "qty": 1, "price": 145.49}, {"sku": "SKU-0001", "qty": 1, "price": 352.61}]}
+{"orderId": "MKT-001001", "timestamp": 1770854400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0004", "qty": 1, "price": 78.0}, {"sku": "SKU-0008", "qty": 2, "price": 190.43}]}
+{"orderId": "MKT-001002", "timestamp": 1771545600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 1, "price": 216.56}, {"sku": "SKU-0007", "qty": 2, "price": 151.66}]}
+{"orderId": "MKT-001003", "timestamp": 1771545600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0002", "qty": 2, "price": 384.62}, {"sku": "SKU-0011", "qty": 2, "price": 67.22}, {"sku": "SKU-0003", "qty": 2, "price": 81.45}]}
+{"orderId": "MKT-001004", "timestamp": 1771027200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0003", "qty": 2, "price": 77.39}, {"sku": "SKU-0010", "qty": 1, "price": 221.11}, {"sku": "SKU-0007", "qty": 2, "price": 146.73}]}
+{"orderId": "MKT-001005", "timestamp": 1770768000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 2, "price": 229.84}, {"sku": "SKU-0001", "qty": 2, "price": 337.18}]}
+{"orderId": "MKT-001006", "timestamp": 1771372800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0011", "qty": 2, "price": 69.31}, {"sku": "SKU-0008", "qty": 2, "price": 189.69}, {"sku": "SKU-0007", "qty": 1, "price": 150.88}]}
+{"orderId": "MKT-001007", "timestamp": 1770681600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0005", "qty": 1, "price": 100.28}]}
+{"orderId": "MKT-001008", "timestamp": 1771977600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 2, "price": 220.99}, {"sku": "SKU-0012", "qty": 1, "price": 120.77}]}
+{"orderId": "MKT-001009", "timestamp": 1771977600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0014", "qty": 1, "price": 40.94}, {"sku": "SKU-0006", "qty": 2, "price": 130.5}, {"sku": "SKU-0009", "qty": 2, "price": 86.33}]}
+{"orderId": "MKT-001010", "timestamp": 1770681600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0008", "qty": 2, "price": 187.02}]}
+{"orderId": "MKT-001011", "timestamp": 1771113600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0013", "qty": 1, "price": 48.45}]}
+{"orderId": "MKT-001012", "timestamp": 1772236800, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 1, "price": 222.45}, {"sku": "SKU-0011", "qty": 1, "price": 72.09}, {"sku": "SKU-0007", "qty": 1, "price": 150.95}]}
+{"orderId": "MKT-001013", "timestamp": 1771545600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0003", "qty": 2, "price": 78.22}, {"sku": "SKU-0006", "qty": 2, "price": 135.78}, {"sku": "SKU-0012", "qty": 1, "price": 115.53}]}
+{"orderId": "MKT-001014", "timestamp": 1769990400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0014", "qty": 1, "price": 40.7}, {"sku": "SKU-0011", "qty": 1, "price": 68.15}]}
+{"orderId": "MKT-001015", "timestamp": 1772150400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0013", "qty": 2, "price": 49.85}]}
+{"orderId": "MKT-001016", "timestamp": 1771632000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0007", "qty": 1, "price": 151.9}, {"sku": "SKU-0008", "qty": 1, "price": 188.06}]}
+{"orderId": "MKT-001017", "timestamp": 1771804800, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0008", "qty": 2, "price": 191.46}, {"sku": "SKU-0015", "qty": 1, "price": 61.28}]}
+{"orderId": "MKT-001018", "timestamp": 1771632000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0012", "qty": 2, "price": 116.52}, {"sku": "SKU-0006", "qty": 2, "price": 134.12}, {"sku": "SKU-0002", "qty": 2, "price": 390.64}]}
+{"orderId": "MKT-001019", "timestamp": 1770768000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0010", "qty": 2, "price": 226.24}, {"sku": "SKU-0003", "qty": 1, "price": 76.27}, {"sku": "SKU-0015", "qty": 2, "price": 57.0}]}
+{"orderId": "MKT-001020", "timestamp": 1771113600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0001", "qty": 1, "price": 367.24}, {"sku": "SKU-0007", "qty": 1, "price": 155.63}]}
+{"orderId": "MKT-001021", "timestamp": 1770336000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0002", "qty": 2, "price": 389.92}, {"sku": "SKU-0011", "qty": 2, "price": 71.05}]}
+{"orderId": "MKT-001022", "timestamp": 1769990400, "marketplace": "ShopFast", "items": [{"sku": "SKU-0011", "qty": 1, "price": 69.41}, {"sku": "SKU-0005", "qty": 1, "price": 101.93}]}
+{"orderId": "MKT-001023", "timestamp": 1770422400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0002", "qty": 1, "price": 400.68}, {"sku": "SKU-0003", "qty": 2, "price": 75.98}]}
+{"orderId": "MKT-001024", "timestamp": 1772150400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0014", "qty": 2, "price": 40.67}]}
+{"orderId": "MKT-001025", "timestamp": 1770076800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0007", "qty": 1, "price": 153.36}]}
+{"orderId": "MKT-001026", "timestamp": 1770163200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0006", "qty": 1, "price": 128.38}, {"sku": "SKU-0005", "qty": 1, "price": 101.31}]}
+{"orderId": "MKT-001027", "timestamp": 1770076800, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 1, "price": 218.58}, {"sku": "SKU-0001", "qty": 1, "price": 354.38}, {"sku": "SKU-0015", "qty": 1, "price": 62.42}]}
+{"orderId": "MKT-001028", "timestamp": 1772236800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0002", "qty": 1, "price": 385.5}]}
+{"orderId": "MKT-001029", "timestamp": 1771459200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0007", "qty": 2, "price": 154.26}, {"sku": "SKU-0006", "qty": 1, "price": 127.0}, {"sku": "SKU-0015", "qty": 1, "price": 58.39}]}
+{"orderId": "MKT-001030", "timestamp": 1771977600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0001", "qty": 2, "price": 339.59}, {"sku": "SKU-0014", "qty": 1, "price": 40.89}, {"sku": "SKU-0011", "qty": 2, "price": 70.92}]}
+{"orderId": "MKT-001031", "timestamp": 1771200000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0002", "qty": 2, "price": 405.42}, {"sku": "SKU-0004", "qty": 1, "price": 80.13}]}
+{"orderId": "MKT-001032", "timestamp": 1770854400, "marketplace": "ShopFast", "items": [{"sku": "SKU-0003", "qty": 2, "price": 78.82}, {"sku": "SKU-0007", "qty": 1, "price": 153.84}]}
+{"orderId": "MKT-001033", "timestamp": 1769904000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0002", "qty": 1, "price": 381.5}, {"sku": "SKU-0001", "qty": 1, "price": 365.6}, {"sku": "SKU-0005", "qty": 2, "price": 99.97}]}
+{"orderId": "MKT-001034", "timestamp": 1771027200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0007", "qty": 1, "price": 146.56}, {"sku": "SKU-0002", "qty": 2, "price": 383.07}, {"sku": "SKU-0011", "qty": 1, "price": 73.22}]}
+{"orderId": "MKT-001035", "timestamp": 1771372800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0007", "qty": 1, "price": 147.05}, {"sku": "SKU-0010", "qty": 2, "price": 224.96}]}
+{"orderId": "MKT-001036", "timestamp": 1769990400, "marketplace": "ShopFast", "items": [{"sku": "SKU-0002", "qty": 2, "price": 384.54}]}
+{"orderId": "MKT-001037", "timestamp": 1770681600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0012", "qty": 1, "price": 115.34}, {"sku": "SKU-0011", "qty": 1, "price": 71.31}, {"sku": "SKU-0015", "qty": 1, "price": 59.88}]}
+{"orderId": "MKT-001038", "timestamp": 1771286400, "marketplace": "ShopFast", "items": [{"sku": "SKU-0013", "qty": 2, "price": 48.24}, {"sku": "SKU-0014", "qty": 1, "price": 40.9}, {"sku": "SKU-0012", "qty": 2, "price": 122.69}]}
+{"orderId": "MKT-001039", "timestamp": 1771977600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0006", "qty": 2, "price": 126.94}]}
+{"orderId": "MKT-001040", "timestamp": 1770595200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 2, "price": 218.91}, {"sku": "SKU-0011", "qty": 2, "price": 66.79}, {"sku": "SKU-0002", "qty": 1, "price": 394.61}]}
+{"orderId": "MKT-001041", "timestamp": 1771977600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0015", "qty": 1, "price": 58.27}]}
+{"orderId": "MKT-001042", "timestamp": 1769990400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0004", "qty": 1, "price": 79.67}]}
+{"orderId": "MKT-001043", "timestamp": 1770249600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0015", "qty": 1, "price": 60.22}]}
+{"orderId": "MKT-001044", "timestamp": 1770508800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0004", "qty": 2, "price": 78.07}, {"sku": "SKU-0007", "qty": 1, "price": 150.97}]}
+{"orderId": "MKT-001045", "timestamp": 1771286400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0015", "qty": 1, "price": 61.72}, {"sku": "SKU-0001", "qty": 1, "price": 365.79}, {"sku": "SKU-0003", "qty": 1, "price": 82.91}]}
+{"orderId": "MKT-001046", "timestamp": 1771977600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0006", "qty": 2, "price": 123.51}, {"sku": "SKU-0002", "qty": 1, "price": 391.57}]}
+{"orderId": "MKT-001047", "timestamp": 1771891200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0004", "qty": 2, "price": 83.88}, {"sku": "SKU-0008", "qty": 1, "price": 194.31}, {"sku": "SKU-0006", "qty": 1, "price": 125.36}]}
+{"orderId": "MKT-001048", "timestamp": 1769904000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0009", "qty": 2, "price": 91.12}]}
+{"orderId": "MKT-001049", "timestamp": 1770768000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0013", "qty": 2, "price": 51.64}]}
+{"orderId": "MKT-001050", "timestamp": 1770163200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0009", "qty": 1, "price": 89.18}]}
+{"orderId": "MKT-001051", "timestamp": 1770249600, "marketplace": "ShopFast", "items": [{"sku": "SKU-0005", "qty": 1, "price": 103.87}, {"sku": "SKU-0002", "qty": 2, "price": 407.93}, {"sku": "SKU-0001", "qty": 2, "price": 348.45}]}
+{"orderId": "MKT-001052", "timestamp": 1771459200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0009", "qty": 1, "price": 91.13}]}
+{"orderId": "MKT-001053", "timestamp": 1770076800, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0010", "qty": 1, "price": 214.11}, {"sku": "SKU-0001", "qty": 2, "price": 362.18}, {"sku": "SKU-0007", "qty": 2, "price": 152.91}]}
+{"orderId": "MKT-001054", "timestamp": 1770768000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0005", "qty": 1, "price": 104.33}, {"sku": "SKU-0004", "qty": 1, "price": 82.14}]}
+{"orderId": "MKT-001055", "timestamp": 1770249600, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0003", "qty": 2, "price": 79.63}]}
+{"orderId": "MKT-001056", "timestamp": 1770163200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0006", "qty": 2, "price": 127.41}, {"sku": "SKU-0013", "qty": 2, "price": 51.66}, {"sku": "SKU-0004", "qty": 1, "price": 77.16}]}
+{"orderId": "MKT-001057", "timestamp": 1772150400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0012", "qty": 1, "price": 123.93}, {"sku": "SKU-0010", "qty": 2, "price": 212.17}, {"sku": "SKU-0001", "qty": 1, "price": 366.29}]}
+{"orderId": "MKT-001058", "timestamp": 1771286400, "marketplace": "ShopFast", "items": [{"sku": "SKU-0011", "qty": 2, "price": 68.22}]}
+{"orderId": "MKT-001059", "timestamp": 1769904000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0014", "qty": 1, "price": 38.28}, {"sku": "SKU-0008", "qty": 1, "price": 195.67}]}
+{"orderId": "MKT-001060", "timestamp": 1770163200, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0001", "qty": 1, "price": 336.98}]}
+{"orderId": "MKT-001061", "timestamp": 1770854400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0011", "qty": 2, "price": 72.82}, {"sku": "SKU-0015", "qty": 1, "price": 57.04}, {"sku": "SKU-0002", "qty": 1, "price": 387.81}]}
+{"orderId": "MKT-001062", "timestamp": 1772064000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0002", "qty": 2, "price": 384.8}]}
+{"orderId": "MKT-001063", "timestamp": 1769990400, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0015", "qty": 2, "price": 61.83}]}
+{"orderId": "MKT-001064", "timestamp": 1771200000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0007", "qty": 2, "price": 145.0}]}
+{"orderId": "MKT-001065", "timestamp": 1770336000, "marketplace": "MegaVarejo", "items": [{"sku": "SKU-0005", "qty": 1, "price": 95.25}, {"sku": "SKU-0008", "qty": 1, "price": 192.7}]}
+{"orderId": "MKT-001066", "timestamp": 1771027200, "marketplace": "ShopFast", "items": [{"sku": "SKU-0008", "qty": 2, "price": 187.68}, {"sku": "SKU-0001", "qty": 2, "price": 339.38}, {"sku": "SKU-0002", "qty": 1, "price": 405.13}]}
+{"orderId": "MKT-001067", "timestamp": 1770940800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0006", "qty": 2, "price": 127.87}, {"sku": "SKU-0008", "qty": 2, "price": 187.78}, {"sku": "SKU-0009", "qty": 1, "price": 85.64}]}
+{"orderId": "MKT-001068", "timestamp": 1769904000, "marketplace": "ShopFast", "items": [{"sku": "SKU-0001", "qty": 2, "price": 350.93}, {"sku": "SKU-0013", "qty": 1, "price": 52.27}]}
+{"orderId": "MKT-001069", "timestamp": 1770508800, "marketplace": "ShopFast", "items": [{"sku": "SKU-0004", "qty": 1, "price": 82.01}, {"sku": "SKU-0005", "qty": 1, "price": 100.66}, {"sku": "SKU-0009", "qty": 2, "price": 88.59}]}
+{"orderId": "MKT-001070", "timestamp": 1770681600, "marketplace": "ShopFast", "items": [{"sku": "SKU-9999", "qty": 1, "price": 99.9}]}
